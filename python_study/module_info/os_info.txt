@@ -1,0 +1,4310 @@
+command: 	os.CLD_CONTINUED
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+6
+---------------------
+
+command: 	os.CLD_DUMPED
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+3
+---------------------
+
+command: 	os.CLD_EXITED
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+1
+---------------------
+
+command: 	os.CLD_TRAPPED
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+4
+---------------------
+
+command: 	os.EX_CANTCREAT
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+73
+---------------------
+
+command: 	os.EX_CONFIG
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+78
+---------------------
+
+command: 	os.EX_DATAERR
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+65
+---------------------
+
+command: 	os.EX_IOERR
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+74
+---------------------
+
+command: 	os.EX_NOHOST
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+68
+---------------------
+
+command: 	os.EX_NOINPUT
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+66
+---------------------
+
+command: 	os.EX_NOPERM
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+77
+---------------------
+
+command: 	os.EX_NOUSER
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+67
+---------------------
+
+command: 	os.EX_OK
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+0
+---------------------
+
+command: 	os.EX_OSERR
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+71
+---------------------
+
+command: 	os.EX_OSFILE
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+72
+---------------------
+
+command: 	os.EX_PROTOCOL
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+76
+---------------------
+
+command: 	os.EX_SOFTWARE
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+70
+---------------------
+
+command: 	os.EX_TEMPFAIL
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+75
+---------------------
+
+command: 	os.EX_UNAVAILABLE
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+69
+---------------------
+
+command: 	os.EX_USAGE
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+64
+---------------------
+
+command: 	os.F_LOCK
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+1
+---------------------
+
+command: 	os.F_OK
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+0
+---------------------
+
+command: 	os.F_TEST
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+3
+---------------------
+
+command: 	os.F_TLOCK
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+2
+---------------------
+
+command: 	os.F_ULOCK
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+0
+---------------------
+
+command: 	os.NGROUPS_MAX
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+65536
+---------------------
+
+command: 	os.O_ACCMODE
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+3
+---------------------
+
+command: 	os.O_APPEND
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+1024
+---------------------
+
+command: 	os.O_ASYNC
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+8192
+---------------------
+
+command: 	os.O_CLOEXEC
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+524288
+---------------------
+
+command: 	os.O_CREAT
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+64
+---------------------
+
+command: 	os.O_DIRECT
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+16384
+---------------------
+
+command: 	os.O_DIRECTORY
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+65536
+---------------------
+
+command: 	os.O_DSYNC
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+4096
+---------------------
+
+command: 	os.O_EXCL
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+128
+---------------------
+
+command: 	os.O_LARGEFILE
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+0
+---------------------
+
+command: 	os.O_NDELAY
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+2048
+---------------------
+
+command: 	os.O_NOATIME
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+262144
+---------------------
+
+command: 	os.O_NOCTTY
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+256
+---------------------
+
+command: 	os.O_NOFOLLOW
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+131072
+---------------------
+
+command: 	os.O_NONBLOCK
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+2048
+---------------------
+
+command: 	os.O_PATH
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+2097152
+---------------------
+
+command: 	os.O_RDONLY
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+0
+---------------------
+
+command: 	os.O_RDWR
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+2
+---------------------
+
+command: 	os.O_RSYNC
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+1052672
+---------------------
+
+command: 	os.O_SYNC
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+1052672
+---------------------
+
+command: 	os.O_TMPFILE
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+4259840
+---------------------
+
+command: 	os.O_TRUNC
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+512
+---------------------
+
+command: 	os.O_WRONLY
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+1
+---------------------
+
+command: 	os.POSIX_FADV_DONTNEED
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+4
+---------------------
+
+command: 	os.POSIX_FADV_NOREUSE
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+5
+---------------------
+
+command: 	os.POSIX_FADV_NORMAL
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+0
+---------------------
+
+command: 	os.POSIX_FADV_RANDOM
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+1
+---------------------
+
+command: 	os.POSIX_FADV_SEQUENTIAL
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+2
+---------------------
+
+command: 	os.POSIX_FADV_WILLNEED
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+3
+---------------------
+
+command: 	os.PRIO_PGRP
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+1
+---------------------
+
+command: 	os.PRIO_PROCESS
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+0
+---------------------
+
+command: 	os.PRIO_USER
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+2
+---------------------
+
+command: 	os.P_ALL
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+0
+---------------------
+
+command: 	os.P_NOWAIT
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+1
+---------------------
+
+command: 	os.P_NOWAITO
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+1
+---------------------
+
+command: 	os.P_PGID
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+2
+---------------------
+
+command: 	os.P_PID
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+1
+---------------------
+
+command: 	os.P_WAIT
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+0
+---------------------
+
+command: 	os.RTLD_DEEPBIND
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+8
+---------------------
+
+command: 	os.RTLD_GLOBAL
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+256
+---------------------
+
+command: 	os.RTLD_LAZY
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+1
+---------------------
+
+command: 	os.RTLD_LOCAL
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+0
+---------------------
+
+command: 	os.RTLD_NODELETE
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+4096
+---------------------
+
+command: 	os.RTLD_NOLOAD
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+4
+---------------------
+
+command: 	os.RTLD_NOW
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+2
+---------------------
+
+command: 	os.R_OK
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+4
+---------------------
+
+command: 	os.SCHED_BATCH
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+3
+---------------------
+
+command: 	os.SCHED_FIFO
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+1
+---------------------
+
+command: 	os.SCHED_IDLE
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+5
+---------------------
+
+command: 	os.SCHED_OTHER
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+0
+---------------------
+
+command: 	os.SCHED_RESET_ON_FORK
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+1073741824
+---------------------
+
+command: 	os.SCHED_RR
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+2
+---------------------
+
+command: 	os.SEEK_CUR
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+1
+---------------------
+
+command: 	os.SEEK_DATA
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+3
+---------------------
+
+command: 	os.SEEK_END
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+2
+---------------------
+
+command: 	os.SEEK_HOLE
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+4
+---------------------
+
+command: 	os.SEEK_SET
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+0
+---------------------
+
+command: 	os.ST_APPEND
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+256
+---------------------
+
+command: 	os.ST_MANDLOCK
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+64
+---------------------
+
+command: 	os.ST_NOATIME
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+1024
+---------------------
+
+command: 	os.ST_NODEV
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+4
+---------------------
+
+command: 	os.ST_NODIRATIME
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+2048
+---------------------
+
+command: 	os.ST_NOEXEC
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+8
+---------------------
+
+command: 	os.ST_NOSUID
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+2
+---------------------
+
+command: 	os.ST_RDONLY
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+1
+---------------------
+
+command: 	os.ST_RELATIME
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+4096
+---------------------
+
+command: 	os.ST_SYNCHRONOUS
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+16
+---------------------
+
+command: 	os.ST_WRITE
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+128
+---------------------
+
+command: 	os.TMP_MAX
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+238328
+---------------------
+
+command: 	os.WCONTINUED
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+8
+---------------------
+
+command: 	os.WCOREDUMP
+---------------------info
+Return True if the process returning status was dumped to a core file.
+---------------------output
+<built-in function WCOREDUMP>
+---------------------
+
+command: 	os.WEXITED
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+4
+---------------------
+
+command: 	os.WEXITSTATUS
+---------------------info
+Return the process return code from status.
+---------------------output
+<built-in function WEXITSTATUS>
+---------------------
+
+command: 	os.WIFCONTINUED
+---------------------info
+Return True if a particular process was continued from a job control stop.
+
+Return True if the process returning status was continued from a
+job control stop.
+---------------------output
+<built-in function WIFCONTINUED>
+---------------------
+
+command: 	os.WIFEXITED
+---------------------info
+Return True if the process returning status exited via the exit() system call.
+---------------------output
+<built-in function WIFEXITED>
+---------------------
+
+command: 	os.WIFSIGNALED
+---------------------info
+Return True if the process returning status was terminated by a signal.
+---------------------output
+<built-in function WIFSIGNALED>
+---------------------
+
+command: 	os.WIFSTOPPED
+---------------------info
+Return True if the process returning status was stopped.
+---------------------output
+<built-in function WIFSTOPPED>
+---------------------
+
+command: 	os.WNOHANG
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+1
+---------------------
+
+command: 	os.WNOWAIT
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+16777216
+---------------------
+
+command: 	os.WSTOPPED
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+2
+---------------------
+
+command: 	os.WSTOPSIG
+---------------------info
+Return the signal that stopped the process that provided the status value.
+---------------------output
+<built-in function WSTOPSIG>
+---------------------
+
+command: 	os.WTERMSIG
+---------------------info
+Return the signal that terminated the process that provided the status value.
+---------------------output
+<built-in function WTERMSIG>
+---------------------
+
+command: 	os.WUNTRACED
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+2
+---------------------
+
+command: 	os.W_OK
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+2
+---------------------
+
+command: 	os.XATTR_CREATE
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+1
+---------------------
+
+command: 	os.XATTR_REPLACE
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+2
+---------------------
+
+command: 	os.XATTR_SIZE_MAX
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+65536
+---------------------
+
+command: 	os.X_OK
+---------------------info
+int(x=0) -> integer
+int(x, base=10) -> integer
+
+Convert a number or string to an integer, or return 0 if no arguments
+are given.  If x is a number, return x.__int__().  For floating point
+numbers, this truncates towards zero.
+
+If x is not a number or if base is given, then x must be a string,
+bytes, or bytearray instance representing an integer literal in the
+given base.  The literal can be preceded by '+' or '-' and be surrounded
+by whitespace.  The base defaults to 10.  Valid bases are 0 and 2-36.
+Base 0 means to interpret the base from the string as an integer literal.
+>>> int('0b100', base=0)
+4
+---------------------output
+1
+---------------------
+
+command: 	os._exit
+---------------------info
+Exit to the system with specified status, without normal exit processing.
+---------------------output
+<built-in function _exit>
+---------------------
+
+command: 	os.abort
+---------------------info
+Abort the interpreter immediately.
+
+This function 'dumps core' or otherwise fails in the hardest way possible
+on the hosting operating system.  This function never returns.
+---------------------output
+<built-in function abort>
+---------------------
+
+command: 	os.access
+---------------------info
+Use the real uid/gid to test for access to a path.
+
+  path
+    Path to be tested; can be string, bytes, or open-file-descriptor int.
+  mode
+    Operating-system mode bitfield.  Can be F_OK to test existence,
+    or the inclusive-OR of R_OK, W_OK, and X_OK.
+  dir_fd
+    If not None, it should be a file descriptor open to a directory,
+    and path should be relative; path will then be relative to that
+    directory.
+  effective_ids
+    If True, access will use the effective uid/gid instead of
+    the real uid/gid.
+  follow_symlinks
+    If False, and the last element of the path is a symbolic link,
+    access will examine the symbolic link itself instead of the file
+    the link points to.
+
+dir_fd, effective_ids, and follow_symlinks may not be implemented
+  on your platform.  If they are unavailable, using them will raise a
+  NotImplementedError.
+
+Note that most operations will use the effective uid/gid, therefore this
+  routine can be used in a suid/sgid environment to test if the invoking user
+  has the specified access to the path.
+---------------------output
+<built-in function access>
+---------------------
+
+command: 	os.altsep
+---------------------info
+None
+---------------------output
+None
+---------------------
+
+command: 	os.chdir
+---------------------info
+Change the current working directory to the specified path.
+
+path may always be specified as a string.
+On some platforms, path may also be specified as an open file descriptor.
+  If this functionality is unavailable, using it raises an exception.
+---------------------output
+<built-in function chdir>
+---------------------
+
+command: 	os.chmod
+---------------------info
+Change the access permissions of a file.
+
+  path
+    Path to be modified.  May always be specified as a str or bytes.
+    On some platforms, path may also be specified as an open file descriptor.
+    If this functionality is unavailable, using it raises an exception.
+  mode
+    Operating-system mode bitfield.
+  dir_fd
+    If not None, it should be a file descriptor open to a directory,
+    and path should be relative; path will then be relative to that
+    directory.
+  follow_symlinks
+    If False, and the last element of the path is a symbolic link,
+    chmod will modify the symbolic link itself instead of the file
+    the link points to.
+
+It is an error to use dir_fd or follow_symlinks when specifying path as
+  an open file descriptor.
+dir_fd and follow_symlinks may not be implemented on your platform.
+  If they are unavailable, using them will raise a NotImplementedError.
+---------------------output
+<built-in function chmod>
+---------------------
+
+command: 	os.chown
+---------------------info
+Change the owner and group id of path to the numeric uid and gid.\
+
+  path
+    Path to be examined; can be string, bytes, or open-file-descriptor int.
+  dir_fd
+    If not None, it should be a file descriptor open to a directory,
+    and path should be relative; path will then be relative to that
+    directory.
+  follow_symlinks
+    If False, and the last element of the path is a symbolic link,
+    stat will examine the symbolic link itself instead of the file
+    the link points to.
+
+path may always be specified as a string.
+On some platforms, path may also be specified as an open file descriptor.
+  If this functionality is unavailable, using it raises an exception.
+If dir_fd is not None, it should be a file descriptor open to a directory,
+  and path should be relative; path will then be relative to that directory.
+If follow_symlinks is False, and the last element of the path is a symbolic
+  link, chown will modify the symbolic link itself instead of the file the
+  link points to.
+It is an error to use dir_fd or follow_symlinks when specifying path as
+  an open file descriptor.
+dir_fd and follow_symlinks may not be implemented on your platform.
+  If they are unavailable, using them will raise a NotImplementedError.
+---------------------output
+<built-in function chown>
+---------------------
+
+command: 	os.chroot
+---------------------info
+Change root directory to path.
+---------------------output
+<built-in function chroot>
+---------------------
+
+command: 	os.close
+---------------------info
+Close a file descriptor.
+---------------------output
+<built-in function close>
+---------------------
+
+command: 	os.closerange
+---------------------info
+Closes all file descriptors in [fd_low, fd_high), ignoring errors.
+---------------------output
+<built-in function closerange>
+---------------------
+
+command: 	os.confstr
+---------------------info
+Return a string-valued system configuration variable.
+---------------------output
+<built-in function confstr>
+---------------------
+
+command: 	os.confstr_names
+---------------------info
+dict() -> new empty dictionary
+dict(mapping) -> new dictionary initialized from a mapping object's
+    (key, value) pairs
+dict(iterable) -> new dictionary initialized as if via:
+    d = {}
+    for k, v in iterable:
+        d[k] = v
+dict(**kwargs) -> new dictionary initialized with the name=value pairs
+    in the keyword argument list.  For example:  dict(one=1, two=2)
+---------------------output
+{'CS_LFS_CFLAGS': 1000, 'CS_LFS64_LINTFLAGS': 1007, 'CS_XBS5_LP64_OFF64_CFLAGS': 1108, 'CS_XBS5_ILP32_OFFBIG_LDFLAGS': 1105, 'CS_LFS_LINTFLAGS': 1003, 'CS_XBS5_ILP32_OFFBIG_CFLAGS': 1104, 'CS_XBS5_ILP32_OFF32_CFLAGS': 1100, 'CS_GNU_LIBPTHREAD_VERSION': 3, 'CS_XBS5_LPBIG_OFFBIG_LIBS': 1114, 'CS_LFS64_LIBS': 1006, 'CS_LFS_LIBS': 1002, 'CS_XBS5_LPBIG_OFFBIG_CFLAGS': 1112, 'CS_GNU_LIBC_VERSION': 2, 'CS_LFS64_LDFLAGS': 1005, 'CS_XBS5_ILP32_OFF32_LIBS': 1102, 'CS_XBS5_LP64_OFF64_LINTFLAGS': 1111, 'CS_XBS5_ILP32_OFF32_LINTFLAGS': 1103, 'CS_PATH': 0, 'CS_XBS5_ILP32_OFFBIG_LIBS': 1106, 'CS_XBS5_ILP32_OFF32_LDFLAGS': 1101, 'CS_LFS64_CFLAGS': 1004, 'CS_LFS_LDFLAGS': 1001, 'CS_XBS5_LP64_OFF64_LDFLAGS': 1109, 'CS_XBS5_ILP32_OFFBIG_LINTFLAGS': 1107, 'CS_XBS5_LPBIG_OFFBIG_LINTFLAGS': 1115, 'CS_XBS5_LPBIG_OFFBIG_LDFLAGS': 1113, 'CS_XBS5_LP64_OFF64_LIBS': 1110}
+---------------------
+
+command: 	os.cpu_count
+---------------------info
+Return the number of CPUs in the system; return None if indeterminable.
+---------------------output
+<built-in function cpu_count>
+---------------------
+
+command: 	os.ctermid
+---------------------info
+Return the name of the controlling terminal for this process.
+---------------------output
+<built-in function ctermid>
+---------------------
+
+command: 	os.curdir
+---------------------info
+str(object='') -> str
+str(bytes_or_buffer[, encoding[, errors]]) -> str
+
+Create a new string object from the given object. If encoding or
+errors is specified, then the object must expose a data buffer
+that will be decoded using the given encoding and error handler.
+Otherwise, returns the result of object.__str__() (if defined)
+or repr(object).
+encoding defaults to sys.getdefaultencoding().
+errors defaults to 'strict'.
+---------------------output
+.
+---------------------
+
+command: 	os.defpath
+---------------------info
+str(object='') -> str
+str(bytes_or_buffer[, encoding[, errors]]) -> str
+
+Create a new string object from the given object. If encoding or
+errors is specified, then the object must expose a data buffer
+that will be decoded using the given encoding and error handler.
+Otherwise, returns the result of object.__str__() (if defined)
+or repr(object).
+encoding defaults to sys.getdefaultencoding().
+errors defaults to 'strict'.
+---------------------output
+:/bin:/usr/bin
+---------------------
+
+command: 	os.device_encoding
+---------------------info
+Return a string describing the encoding of a terminal's file descriptor.
+
+The file descriptor must be attached to a terminal.
+If the device is not a terminal, return None.
+---------------------output
+<built-in function device_encoding>
+---------------------
+
+command: 	os.devnull
+---------------------info
+str(object='') -> str
+str(bytes_or_buffer[, encoding[, errors]]) -> str
+
+Create a new string object from the given object. If encoding or
+errors is specified, then the object must expose a data buffer
+that will be decoded using the given encoding and error handler.
+Otherwise, returns the result of object.__str__() (if defined)
+or repr(object).
+encoding defaults to sys.getdefaultencoding().
+errors defaults to 'strict'.
+---------------------output
+/dev/null
+---------------------
+
+command: 	os.dup
+---------------------info
+Return a duplicate of a file descriptor.
+---------------------output
+<built-in function dup>
+---------------------
+
+command: 	os.dup2
+---------------------info
+Duplicate file descriptor.
+---------------------output
+<built-in function dup2>
+---------------------
+
+command: 	os.environ
+---------------------info
+None
+---------------------output
+environ({'LOGNAME': 'shuihsui', 'TERM': 'xterm-256color', 'XDG_GREETER_DATA_DIR': '/var/lib/lightdm-data/shuihsui', 'QT_ACCESSIBILITY': '1', 'XDG_SESSION_PATH': '/org/freedesktop/DisplayManager/Session0', 'WINDOWID': '50331658', 'GTK_MODULES': 'gail:atk-bridge:unity-gtk-module', 'GTK_IM_MODULE': 'ibus', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'LC_PAPER': 'zh_CN.UTF-8', 'COMPIZ_CONFIG_PROFILE': 'ubuntu', 'LC_TELEPHONE': 'zh_CN.UTF-8', 'LC_NUMERIC': 'zh_CN.UTF-8', 'GNOME_KEYRING_PID': '', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XDG_SESSION_TYPE': 'x11', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_ADDRESS': 'zh_CN.UTF-8', '_': '/usr/bin/python', 'GDMSESSION': 'ubuntu', 'GTK2_MODULES': 'overlay-scrollbar', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg', 'MANDATORY_PATH': '/usr/share/gconf/ubuntu.mandatory.path', 'XAUTHORITY': '/home/shuihsui/.Xauthority', 'LC_IDENTIFICATION': 'zh_CN.UTF-8', 'XDG_RUNTIME_DIR': '/run/user/1000', 'XDG_SEAT_PATH': '/org/freedesktop/DisplayManager/Seat0', 'INSTANCE': '', 'XMODIFIERS': '@im=ibus', 'VTE_VERSION': '4205', 'QT_QPA_PLATFORMTHEME': 'appmenu-qt5', 'GPG_AGENT_INFO': '/home/shuihsui/.gnupg/S.gpg-agent:0:1', 'DEFAULTS_PATH': '/usr/share/gconf/ubuntu.default.path', 'HOME': '/home/shuihsui', 'QT_IM_MODULE': 'ibus', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'DISPLAY': ':0', 'LANG': 'zh_CN.UTF-8', 'QT_LINUX_ACCESSIBILITY_ALWAYS_ON': '1', 'XDG_CURRENT_DESKTOP': 'Unity', 'SHELL': '/bin/bash', 'SESSIONTYPE': 'gnome-session', 'XDG_SEAT': 'seat0', 'PATH': '/home/shuihsui/bin:/home/shuihsui/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'DBUS_SESSION_BUS_ADDRESS': 'unix:abstract=/tmp/dbus-YCJLZpUpS5', 'QT4_IM_MODULE': 'ibus', 'GNOME_KEYRING_CONTROL': '', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'GDM_LANG': 'zh_CN', 'LANGUAGE': 'zh_CN:en', 'XDG_VTNR': '7', 'LC_TIME': 'zh_CN.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'XDG_MENU_PREFIX': 'gnome-', 'DESKTOP_SESSION': 'ubuntu', 'SHLVL': '1', 'LC_MEASUREMENT': 'zh_CN.UTF-8', 'XDG_SESSION_ID': 'c2', 'USER': 'shuihsui', 'LC_MONETARY': 'zh_CN.UTF-8', 'OLDPWD': '/home/shuihsui/learngit/Hello-World/python_study', 'SESSION_MANAGER': 'local/ubuntu:@/tmp/.ICE-unix/1907,unix/ubuntu:/tmp/.ICE-unix/1907', 'IM_CONFIG_PHASE': '1', 'CLUTTER_IM_MODULE': 'ibus', 'LC_NAME': 'zh_CN.UTF-8', 'PWD': '/home/shuihsui/learngit/Hello-World/python_study/module_info', 'SESSION': 'ubuntu', 'PAPERSIZE': 'a4', 'JOB': 'dbus', 'UPSTART_SESSION': 'unix:abstract=/com/ubuntu/upstart-session/1000/1683'})
+---------------------
+
+command: 	os.environb
+---------------------info
+None
+---------------------output
+environ({b'LOGNAME': b'shuihsui', b'TERM': b'xterm-256color', b'XDG_GREETER_DATA_DIR': b'/var/lib/lightdm-data/shuihsui', b'QT_ACCESSIBILITY': b'1', b'XDG_SESSION_PATH': b'/org/freedesktop/DisplayManager/Session0', b'WINDOWID': b'50331658', b'GTK_MODULES': b'gail:atk-bridge:unity-gtk-module', b'GTK_IM_MODULE': b'ibus', b'GNOME_DESKTOP_SESSION_ID': b'this-is-deprecated', b'LC_PAPER': b'zh_CN.UTF-8', b'COMPIZ_CONFIG_PROFILE': b'ubuntu', b'LC_TELEPHONE': b'zh_CN.UTF-8', b'LC_NUMERIC': b'zh_CN.UTF-8', b'GNOME_KEYRING_PID': b'', b'XDG_SESSION_DESKTOP': b'ubuntu', b'XDG_SESSION_TYPE': b'x11', b'LESSCLOSE': b'/usr/bin/lesspipe %s %s', b'LC_ADDRESS': b'zh_CN.UTF-8', b'_': b'/usr/bin/python', b'GDMSESSION': b'ubuntu', b'GTK2_MODULES': b'overlay-scrollbar', b'XDG_CONFIG_DIRS': b'/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg', b'MANDATORY_PATH': b'/usr/share/gconf/ubuntu.mandatory.path', b'XAUTHORITY': b'/home/shuihsui/.Xauthority', b'LC_IDENTIFICATION': b'zh_CN.UTF-8', b'XDG_RUNTIME_DIR': b'/run/user/1000', b'XDG_SEAT_PATH': b'/org/freedesktop/DisplayManager/Seat0', b'INSTANCE': b'', b'XMODIFIERS': b'@im=ibus', b'VTE_VERSION': b'4205', b'QT_QPA_PLATFORMTHEME': b'appmenu-qt5', b'GPG_AGENT_INFO': b'/home/shuihsui/.gnupg/S.gpg-agent:0:1', b'DEFAULTS_PATH': b'/usr/share/gconf/ubuntu.default.path', b'HOME': b'/home/shuihsui', b'QT_IM_MODULE': b'ibus', b'SSH_AUTH_SOCK': b'/run/user/1000/keyring/ssh', b'DISPLAY': b':0', b'LANG': b'zh_CN.UTF-8', b'QT_LINUX_ACCESSIBILITY_ALWAYS_ON': b'1', b'XDG_CURRENT_DESKTOP': b'Unity', b'SHELL': b'/bin/bash', b'SESSIONTYPE': b'gnome-session', b'XDG_SEAT': b'seat0', b'PATH': b'/home/shuihsui/bin:/home/shuihsui/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', b'XDG_DATA_DIRS': b'/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', b'DBUS_SESSION_BUS_ADDRESS': b'unix:abstract=/tmp/dbus-YCJLZpUpS5', b'QT4_IM_MODULE': b'ibus', b'GNOME_KEYRING_CONTROL': b'', b'LESSOPEN': b'| /usr/bin/lesspipe %s', b'GDM_LANG': b'zh_CN', b'LANGUAGE': b'zh_CN:en', b'XDG_VTNR': b'7', b'LC_TIME': b'zh_CN.UTF-8', b'LS_COLORS': b'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', b'XDG_MENU_PREFIX': b'gnome-', b'DESKTOP_SESSION': b'ubuntu', b'SHLVL': b'1', b'LC_MEASUREMENT': b'zh_CN.UTF-8', b'XDG_SESSION_ID': b'c2', b'USER': b'shuihsui', b'LC_MONETARY': b'zh_CN.UTF-8', b'OLDPWD': b'/home/shuihsui/learngit/Hello-World/python_study', b'SESSION_MANAGER': b'local/ubuntu:@/tmp/.ICE-unix/1907,unix/ubuntu:/tmp/.ICE-unix/1907', b'IM_CONFIG_PHASE': b'1', b'CLUTTER_IM_MODULE': b'ibus', b'LC_NAME': b'zh_CN.UTF-8', b'PWD': b'/home/shuihsui/learngit/Hello-World/python_study/module_info', b'SESSION': b'ubuntu', b'PAPERSIZE': b'a4', b'JOB': b'dbus', b'UPSTART_SESSION': b'unix:abstract=/com/ubuntu/upstart-session/1000/1683'})
+---------------------
+
+command: 	os.error
+---------------------info
+Base class for I/O related errors.
+---------------------output
+<class 'OSError'>
+---------------------
+
+command: 	os.execl
+---------------------info
+execl(file, *args)
+
+    Execute the executable file with argument list args, replacing the
+    current process. 
+---------------------output
+<function execl at 0x7feed8094268>
+---------------------
+
+command: 	os.execle
+---------------------info
+execle(file, *args, env)
+
+    Execute the executable file with argument list args and
+    environment env, replacing the current process. 
+---------------------output
+<function execle at 0x7feed80942f0>
+---------------------
+
+command: 	os.execlp
+---------------------info
+execlp(file, *args)
+
+    Execute the executable file (which is searched for along $PATH)
+    with argument list args, replacing the current process. 
+---------------------output
+<function execlp at 0x7feed8094378>
+---------------------
+
+command: 	os.execlpe
+---------------------info
+execlpe(file, *args, env)
+
+    Execute the executable file (which is searched for along $PATH)
+    with argument list args and environment env, replacing the current
+    process. 
+---------------------output
+<function execlpe at 0x7feed8094400>
+---------------------
+
+command: 	os.execv
+---------------------info
+Execute an executable path with arguments, replacing current process.
+
+  path
+    Path of executable file.
+  argv
+    Tuple or list of strings.
+---------------------output
+<built-in function execv>
+---------------------
+
+command: 	os.execve
+---------------------info
+Execute an executable path with arguments, replacing current process.
+
+  path
+    Path of executable file.
+  argv
+    Tuple or list of strings.
+  env
+    Dictionary of strings mapping to strings.
+---------------------output
+<built-in function execve>
+---------------------
+
+command: 	os.execvp
+---------------------info
+execvp(file, args)
+
+    Execute the executable file (which is searched for along $PATH)
+    with argument list args, replacing the current process.
+    args may be a list or tuple of strings. 
+---------------------output
+<function execvp at 0x7feed8094488>
+---------------------
+
+command: 	os.execvpe
+---------------------info
+execvpe(file, args, env)
+
+    Execute the executable file (which is searched for along $PATH)
+    with argument list args and environment env , replacing the
+    current process.
+    args may be a list or tuple of strings. 
+---------------------output
+<function execvpe at 0x7feed8094510>
+---------------------
+
+command: 	os.extsep
+---------------------info
+str(object='') -> str
+str(bytes_or_buffer[, encoding[, errors]]) -> str
+
+Create a new string object from the given object. If encoding or
+errors is specified, then the object must expose a data buffer
+that will be decoded using the given encoding and error handler.
+Otherwise, returns the result of object.__str__() (if defined)
+or repr(object).
+encoding defaults to sys.getdefaultencoding().
+errors defaults to 'strict'.
+---------------------output
+.
+---------------------
+
+command: 	os.fchdir
+---------------------info
+Change to the directory of the given file descriptor.
+
+fd must be opened on a directory, not a file.
+Equivalent to os.chdir(fd).
+---------------------output
+<built-in function fchdir>
+---------------------
+
+command: 	os.fchmod
+---------------------info
+Change the access permissions of the file given by file descriptor fd.
+
+Equivalent to os.chmod(fd, mode).
+---------------------output
+<built-in function fchmod>
+---------------------
+
+command: 	os.fchown
+---------------------info
+Change the owner and group id of the file specified by file descriptor.
+
+Equivalent to os.chown(fd, uid, gid).
+---------------------output
+<built-in function fchown>
+---------------------
+
+command: 	os.fdatasync
+---------------------info
+Force write of fd to disk without forcing update of metadata.
+---------------------output
+<built-in function fdatasync>
+---------------------
+
+command: 	os.fdopen
+---------------------info
+None
+---------------------output
+<function fdopen at 0x7feed80b5ea0>
+---------------------
+
+command: 	os.fork
+---------------------info
+Fork a child process.
+
+Return 0 to child process and PID of child to parent process.
+---------------------output
+<built-in function fork>
+---------------------
+
+command: 	os.forkpty
+---------------------info
+Fork a new process with a new pseudo-terminal as controlling tty.
+
+Returns a tuple of (pid, master_fd).
+Like fork(), return pid of 0 to the child process,
+and pid of child to the parent process.
+To both, return fd of newly opened pseudo-terminal.
+---------------------output
+<built-in function forkpty>
+---------------------
+
+command: 	os.fpathconf
+---------------------info
+Return the configuration limit name for the file descriptor fd.
+
+If there is no limit, return -1.
+---------------------output
+<built-in function fpathconf>
+---------------------
+
+command: 	os.fsdecode
+---------------------info
+
+        Decode filename from the filesystem encoding with 'surrogateescape' error
+        handler, return str unchanged. On Windows, use 'strict' error handler if
+        the file system encoding is 'mbcs' (which is the default encoding).
+        
+---------------------output
+<function _fscodec.<locals>.fsdecode at 0x7feed80b5950>
+---------------------
+
+command: 	os.fsencode
+---------------------info
+
+        Encode filename to the filesystem encoding with 'surrogateescape' error
+        handler, return bytes unchanged. On Windows, use 'strict' error handler if
+        the file system encoding is 'mbcs' (which is the default encoding).
+        
+---------------------output
+<function _fscodec.<locals>.fsencode at 0x7feed80b58c8>
+---------------------
+
+command: 	os.fstat
+---------------------info
+Perform a stat system call on the given file descriptor.
+
+Like stat(), but for an open file descriptor.
+Equivalent to os.stat(fd).
+---------------------output
+<built-in function fstat>
+---------------------
+
+command: 	os.fstatvfs
+---------------------info
+Perform an fstatvfs system call on the given fd.
+
+Equivalent to statvfs(fd).
+---------------------output
+<built-in function fstatvfs>
+---------------------
+
+command: 	os.fsync
+---------------------info
+Force write of fd to disk.
+---------------------output
+<built-in function fsync>
+---------------------
+
+command: 	os.ftruncate
+---------------------info
+Truncate a file, specified by file descriptor, to a specific length.
+---------------------output
+<built-in function ftruncate>
+---------------------
+
+command: 	os.fwalk
+---------------------info
+Directory tree generator.
+
+        This behaves exactly like walk(), except that it yields a 4-tuple
+
+            dirpath, dirnames, filenames, dirfd
+
+        `dirpath`, `dirnames` and `filenames` are identical to walk() output,
+        and `dirfd` is a file descriptor referring to the directory `dirpath`.
+
+        The advantage of fwalk() over walk() is that it's safe against symlink
+        races (when follow_symlinks is False).
+
+        If dir_fd is not None, it should be a file descriptor open to a directory,
+          and top should be relative; top will then be relative to that directory.
+          (dir_fd is always supported for fwalk.)
+
+        Caution:
+        Since fwalk() yields file descriptors, those are only valid until the
+        next iteration step, so you should dup() them if you want to keep them
+        for a longer period.
+
+        Example:
+
+        import os
+        for root, dirs, files, rootfd in os.fwalk('python/Lib/email'):
+            print(root, "consumes", end="")
+            print(sum([os.stat(name, dir_fd=rootfd).st_size for name in files]),
+                  end="")
+            print("bytes in", len(files), "non-directory files")
+            if 'CVS' in dirs:
+                dirs.remove('CVS')  # don't visit CVS directories
+        
+---------------------output
+<function fwalk at 0x7feed8094158>
+---------------------
+
+command: 	os.get_blocking
+---------------------info
+get_blocking(fd) -> bool
+
+Get the blocking mode of the file descriptor:
+False if the O_NONBLOCK flag is set, True if the flag is cleared.
+---------------------output
+<built-in function get_blocking>
+---------------------
+
+command: 	os.get_exec_path
+---------------------info
+Returns the sequence of directories that will be searched for the
+    named executable (similar to a shell) when launching a process.
+
+    *env* must be an environment variable dict or None.  If *env* is None,
+    os.environ will be used.
+    
+---------------------output
+<function get_exec_path at 0x7feed8094620>
+---------------------
+
+command: 	os.get_inheritable
+---------------------info
+Get the close-on-exe flag of the specified file descriptor.
+---------------------output
+<built-in function get_inheritable>
+---------------------
+
+command: 	os.get_terminal_size
+---------------------info
+Return the size of the terminal window as (columns, lines).
+
+The optional argument fd (default standard output) specifies
+which file descriptor should be queried.
+
+If the file descriptor is not connected to a terminal, an OSError
+is thrown.
+
+This function will only be defined if an implementation is
+available for this system.
+
+shutil.get_terminal_size is the high-level function which should 
+normally be used, os.get_terminal_size is the low-level implementation.
+---------------------output
+<built-in function get_terminal_size>
+---------------------
+
+command: 	os.getcwd
+---------------------info
+Return a unicode string representing the current working directory.
+---------------------output
+<built-in function getcwd>
+---------------------
+
+command: 	os.getcwdb
+---------------------info
+Return a bytes string representing the current working directory.
+---------------------output
+<built-in function getcwdb>
+---------------------
+
+command: 	os.getegid
+---------------------info
+Return the current process's effective group id.
+---------------------output
+<built-in function getegid>
+---------------------
+
+command: 	os.getenv
+---------------------info
+Get an environment variable, return None if it doesn't exist.
+    The optional second argument can specify an alternate default.
+    key, default and the result are str.
+---------------------output
+<function getenv at 0x7feed80946a8>
+---------------------
+
+command: 	os.getenvb
+---------------------info
+Get an environment variable, return None if it doesn't exist.
+        The optional second argument can specify an alternate default.
+        key, default and the result are bytes.
+---------------------output
+<function getenvb at 0x7feed80b57b8>
+---------------------
+
+command: 	os.geteuid
+---------------------info
+Return the current process's effective user id.
+---------------------output
+<built-in function geteuid>
+---------------------
+
+command: 	os.getgid
+---------------------info
+Return the current process's group id.
+---------------------output
+<built-in function getgid>
+---------------------
+
+command: 	os.getgrouplist
+---------------------info
+getgrouplist(user, group) -> list of groups to which a user belongs
+
+Returns a list of groups to which a user belongs.
+
+    user: username to lookup
+    group: base group id of the user
+---------------------output
+<built-in function getgrouplist>
+---------------------
+
+command: 	os.getgroups
+---------------------info
+Return list of supplemental group IDs for the process.
+---------------------output
+<built-in function getgroups>
+---------------------
+
+command: 	os.getloadavg
+---------------------info
+Return average recent system load information.
+
+Return the number of processes in the system run queue averaged over
+the last 1, 5, and 15 minutes as a tuple of three floats.
+Raises OSError if the load average was unobtainable.
+---------------------output
+<built-in function getloadavg>
+---------------------
+
+command: 	os.getlogin
+---------------------info
+Return the actual login name.
+---------------------output
+<built-in function getlogin>
+---------------------
+
+command: 	os.getpgid
+---------------------info
+Call the system call getpgid(), and return the result.
+---------------------output
+<built-in function getpgid>
+---------------------
+
+command: 	os.getpgrp
+---------------------info
+Return the current process group id.
+---------------------output
+<built-in function getpgrp>
+---------------------
+
+command: 	os.getpid
+---------------------info
+Return the current process id.
+---------------------output
+<built-in function getpid>
+---------------------
+
+command: 	os.getppid
+---------------------info
+Return the parent's process id.
+
+If the parent process has already exited, Windows machines will still
+return its id; others systems will return the id of the 'init' process (1).
+---------------------output
+<built-in function getppid>
+---------------------
+
+command: 	os.getpriority
+---------------------info
+Return program scheduling priority.
+---------------------output
+<built-in function getpriority>
+---------------------
+
+command: 	os.getresgid
+---------------------info
+Return a tuple of the current process's real, effective, and saved group ids.
+---------------------output
+<built-in function getresgid>
+---------------------
+
+command: 	os.getresuid
+---------------------info
+Return a tuple of the current process's real, effective, and saved user ids.
+---------------------output
+<built-in function getresuid>
+---------------------
+
+command: 	os.getsid
+---------------------info
+Call the system call getsid(pid) and return the result.
+---------------------output
+<built-in function getsid>
+---------------------
+
+command: 	os.getuid
+---------------------info
+Return the current process's user id.
+---------------------output
+<built-in function getuid>
+---------------------
+
+command: 	os.getxattr
+---------------------info
+Return the value of extended attribute attribute on path.
+
+path may be either a string or an open file descriptor.
+If follow_symlinks is False, and the last element of the path is a symbolic
+  link, getxattr will examine the symbolic link itself instead of the file
+  the link points to.
+---------------------output
+<built-in function getxattr>
+---------------------
+
+command: 	os.initgroups
+---------------------info
+initgroups(username, gid) -> None
+
+Call the system initgroups() to initialize the group access list with all of
+the groups of which the specified username is a member, plus the specified
+group id.
+---------------------output
+<built-in function initgroups>
+---------------------
+
+command: 	os.isatty
+---------------------info
+Return True if the fd is connected to a terminal.
+
+Return True if the file descriptor is an open file descriptor
+connected to the slave end of a terminal.
+---------------------output
+<built-in function isatty>
+---------------------
+
+command: 	os.kill
+---------------------info
+Kill a process with a signal.
+---------------------output
+<built-in function kill>
+---------------------
+
+command: 	os.killpg
+---------------------info
+Kill a process group with a signal.
+---------------------output
+<built-in function killpg>
+---------------------
+
+command: 	os.lchown
+---------------------info
+Change the owner and group id of path to the numeric uid and gid.
+
+This function will not follow symbolic links.
+Equivalent to os.chown(path, uid, gid, follow_symlinks=False).
+---------------------output
+<built-in function lchown>
+---------------------
+
+command: 	os.linesep
+---------------------info
+str(object='') -> str
+str(bytes_or_buffer[, encoding[, errors]]) -> str
+
+Create a new string object from the given object. If encoding or
+errors is specified, then the object must expose a data buffer
+that will be decoded using the given encoding and error handler.
+Otherwise, returns the result of object.__str__() (if defined)
+or repr(object).
+encoding defaults to sys.getdefaultencoding().
+errors defaults to 'strict'.
+---------------------output
+
+
+---------------------
+
+command: 	os.link
+---------------------info
+Create a hard link to a file.
+
+If either src_dir_fd or dst_dir_fd is not None, it should be a file
+  descriptor open to a directory, and the respective path string (src or dst)
+  should be relative; the path will then be relative to that directory.
+If follow_symlinks is False, and the last element of src is a symbolic
+  link, link will create a link to the symbolic link itself instead of the
+  file the link points to.
+src_dir_fd, dst_dir_fd, and follow_symlinks may not be implemented on your
+  platform.  If they are unavailable, using them will raise a
+  NotImplementedError.
+---------------------output
+<built-in function link>
+---------------------
+
+command: 	os.listdir
+---------------------info
+Return a list containing the names of the files in the directory.
+
+path can be specified as either str or bytes.  If path is bytes,
+  the filenames returned will also be bytes; in all other circumstances
+  the filenames returned will be str.
+If path is None, uses the path='.'.
+On some platforms, path may also be specified as an open file descriptor;\
+  the file descriptor must refer to a directory.
+  If this functionality is unavailable, using it raises NotImplementedError.
+
+The list is in arbitrary order.  It does not include the special
+entries '.' and '..' even if they are present in the directory.
+---------------------output
+<built-in function listdir>
+---------------------
+
+command: 	os.listxattr
+---------------------info
+Return a list of extended attributes on path.
+
+path may be either None, a string, or an open file descriptor.
+if path is None, listxattr will examine the current directory.
+If follow_symlinks is False, and the last element of the path is a symbolic
+  link, listxattr will examine the symbolic link itself instead of the file
+  the link points to.
+---------------------output
+<built-in function listxattr>
+---------------------
+
+command: 	os.lockf
+---------------------info
+Apply, test or remove a POSIX lock on an open file descriptor.
+
+  fd
+    An open file descriptor.
+  command
+    One of F_LOCK, F_TLOCK, F_ULOCK or F_TEST.
+  length
+    The number of bytes to lock, starting at the current position.
+---------------------output
+<built-in function lockf>
+---------------------
+
+command: 	os.lseek
+---------------------info
+Set the position of a file descriptor.  Return the new position.
+
+Return the new cursor position in number of bytes
+relative to the beginning of the file.
+---------------------output
+<built-in function lseek>
+---------------------
+
+command: 	os.lstat
+---------------------info
+Perform a stat system call on the given path, without following symbolic links.
+
+Like stat(), but do not follow symbolic links.
+Equivalent to stat(path, follow_symlinks=False).
+---------------------output
+<built-in function lstat>
+---------------------
+
+command: 	os.major
+---------------------info
+Extracts a device major number from a raw device number.
+---------------------output
+<built-in function major>
+---------------------
+
+command: 	os.makedev
+---------------------info
+Composes a raw device number from the major and minor device numbers.
+---------------------output
+<built-in function makedev>
+---------------------
+
+command: 	os.makedirs
+---------------------info
+makedirs(name [, mode=0o777][, exist_ok=False])
+
+    Super-mkdir; create a leaf directory and all intermediate ones.  Works like
+    mkdir, except that any intermediate path segment (not just the rightmost)
+    will be created if it does not exist. If the target directory already
+    exists, raise an OSError if exist_ok is False. Otherwise no exception is
+    raised.  This is recursive.
+
+    
+---------------------output
+<function makedirs at 0x7feed80e9ae8>
+---------------------
+
+command: 	os.minor
+---------------------info
+Extracts a device minor number from a raw device number.
+---------------------output
+<built-in function minor>
+---------------------
+
+command: 	os.mkdir
+---------------------info
+Create a directory.
+
+If dir_fd is not None, it should be a file descriptor open to a directory,
+  and path should be relative; path will then be relative to that directory.
+dir_fd may not be implemented on your platform.
+  If it is unavailable, using it will raise a NotImplementedError.
+
+The mode argument is ignored on Windows.
+---------------------output
+<built-in function mkdir>
+---------------------
+
+command: 	os.mkfifo
+---------------------info
+Create a "fifo" (a POSIX named pipe).
+
+If dir_fd is not None, it should be a file descriptor open to a directory,
+  and path should be relative; path will then be relative to that directory.
+dir_fd may not be implemented on your platform.
+  If it is unavailable, using it will raise a NotImplementedError.
+---------------------output
+<built-in function mkfifo>
+---------------------
+
+command: 	os.mknod
+---------------------info
+Create a node in the file system.
+
+Create a node in the file system (file, device special file or named pipe)
+at path.  mode specifies both the permissions to use and the
+type of node to be created, being combined (bitwise OR) with one of
+S_IFREG, S_IFCHR, S_IFBLK, and S_IFIFO.  If S_IFCHR or S_IFBLK is set on mode,
+device defines the newly created device special file (probably using
+os.makedev()).  Otherwise device is ignored.
+
+If dir_fd is not None, it should be a file descriptor open to a directory,
+  and path should be relative; path will then be relative to that directory.
+dir_fd may not be implemented on your platform.
+  If it is unavailable, using it will raise a NotImplementedError.
+---------------------output
+<built-in function mknod>
+---------------------
+
+command: 	os.name
+---------------------info
+str(object='') -> str
+str(bytes_or_buffer[, encoding[, errors]]) -> str
+
+Create a new string object from the given object. If encoding or
+errors is specified, then the object must expose a data buffer
+that will be decoded using the given encoding and error handler.
+Otherwise, returns the result of object.__str__() (if defined)
+or repr(object).
+encoding defaults to sys.getdefaultencoding().
+errors defaults to 'strict'.
+---------------------output
+posix
+---------------------
+
+command: 	os.nice
+---------------------info
+Add increment to the priority of process and return the new priority.
+---------------------output
+<built-in function nice>
+---------------------
+
+command: 	os.open
+---------------------info
+Open a file for low level IO.  Returns a file descriptor (integer).
+
+If dir_fd is not None, it should be a file descriptor open to a directory,
+  and path should be relative; path will then be relative to that directory.
+dir_fd may not be implemented on your platform.
+  If it is unavailable, using it will raise a NotImplementedError.
+---------------------output
+<built-in function open>
+---------------------
+
+command: 	os.openpty
+---------------------info
+Open a pseudo-terminal.
+
+Return a tuple of (master_fd, slave_fd) containing open file descriptors
+for both the master and slave ends.
+---------------------output
+<built-in function openpty>
+---------------------
+
+command: 	os.pardir
+---------------------info
+str(object='') -> str
+str(bytes_or_buffer[, encoding[, errors]]) -> str
+
+Create a new string object from the given object. If encoding or
+errors is specified, then the object must expose a data buffer
+that will be decoded using the given encoding and error handler.
+Otherwise, returns the result of object.__str__() (if defined)
+or repr(object).
+encoding defaults to sys.getdefaultencoding().
+errors defaults to 'strict'.
+---------------------output
+..
+---------------------
+
+command: 	os.path
+---------------------info
+Common operations on Posix pathnames.
+
+Instead of importing this module directly, import os and refer to
+this module as os.path.  The "os.path" name is an alias for this
+module on Posix systems; on other systems (e.g. Mac, Windows),
+os.path provides the same operations in a manner specific to that
+platform, and is an alias to another module (e.g. macpath, ntpath).
+
+Some of this can actually be useful on non-Posix systems too, e.g.
+for manipulation of the pathname component of URLs.
+
+---------------------output
+<module 'posixpath' from '/usr/lib/python3.5/posixpath.py'>
+---------------------
+
+command: 	os.pathconf
+---------------------info
+Return the configuration limit name for the file or directory path.
+
+If there is no limit, return -1.
+On some platforms, path may also be specified as an open file descriptor.
+  If this functionality is unavailable, using it raises an exception.
+---------------------output
+<built-in function pathconf>
+---------------------
+
+command: 	os.pathconf_names
+---------------------info
+dict() -> new empty dictionary
+dict(mapping) -> new dictionary initialized from a mapping object's
+    (key, value) pairs
+dict(iterable) -> new dictionary initialized as if via:
+    d = {}
+    for k, v in iterable:
+        d[k] = v
+dict(**kwargs) -> new dictionary initialized with the name=value pairs
+    in the keyword argument list.  For example:  dict(one=1, two=2)
+---------------------output
+{'PC_ALLOC_SIZE_MIN': 18, 'PC_LINK_MAX': 0, 'PC_NO_TRUNC': 7, 'PC_SYMLINK_MAX': 19, 'PC_FILESIZEBITS': 13, 'PC_ASYNC_IO': 10, 'PC_MAX_INPUT': 2, 'PC_REC_INCR_XFER_SIZE': 14, 'PC_REC_XFER_ALIGN': 17, 'PC_MAX_CANON': 1, 'PC_NAME_MAX': 3, 'PC_REC_MIN_XFER_SIZE': 16, 'PC_PIPE_BUF': 5, 'PC_SOCK_MAXBUF': 12, 'PC_REC_MAX_XFER_SIZE': 15, 'PC_VDISABLE': 8, 'PC_PATH_MAX': 4, 'PC_PRIO_IO': 11, 'PC_SYNC_IO': 9, 'PC_CHOWN_RESTRICTED': 6}
+---------------------
+
+command: 	os.pathsep
+---------------------info
+str(object='') -> str
+str(bytes_or_buffer[, encoding[, errors]]) -> str
+
+Create a new string object from the given object. If encoding or
+errors is specified, then the object must expose a data buffer
+that will be decoded using the given encoding and error handler.
+Otherwise, returns the result of object.__str__() (if defined)
+or repr(object).
+encoding defaults to sys.getdefaultencoding().
+errors defaults to 'strict'.
+---------------------output
+:
+---------------------
+
+command: 	os.pipe
+---------------------info
+Create a pipe.
+
+Returns a tuple of two file descriptors:
+  (read_fd, write_fd)
+---------------------output
+<built-in function pipe>
+---------------------
+
+command: 	os.pipe2
+---------------------info
+Create a pipe with flags set atomically.
+
+Returns a tuple of two file descriptors:
+  (read_fd, write_fd)
+
+flags can be constructed by ORing together one or more of these values:
+O_NONBLOCK, O_CLOEXEC.
+---------------------output
+<built-in function pipe2>
+---------------------
+
+command: 	os.popen
+---------------------info
+None
+---------------------output
+<function popen at 0x7feed80b5e18>
+---------------------
+
+command: 	os.posix_fadvise
+---------------------info
+Announce an intention to access data in a specific pattern.
+
+Announce an intention to access data in a specific pattern, thus allowing
+the kernel to make optimizations.
+The advice applies to the region of the file specified by fd starting at
+offset and continuing for length bytes.
+advice is one of POSIX_FADV_NORMAL, POSIX_FADV_SEQUENTIAL,
+POSIX_FADV_RANDOM, POSIX_FADV_NOREUSE, POSIX_FADV_WILLNEED, or
+POSIX_FADV_DONTNEED.
+---------------------output
+<built-in function posix_fadvise>
+---------------------
+
+command: 	os.posix_fallocate
+---------------------info
+Ensure a file has allocated at least a particular number of bytes on disk.
+
+Ensure that the file specified by fd encompasses a range of bytes
+starting at offset bytes from the beginning and continuing for length bytes.
+---------------------output
+<built-in function posix_fallocate>
+---------------------
+
+command: 	os.pread
+---------------------info
+Read a number of bytes from a file descriptor starting at a particular offset.
+
+Read length bytes from file descriptor fd, starting at offset bytes from
+the beginning of the file.  The file offset remains unchanged.
+---------------------output
+<built-in function pread>
+---------------------
+
+command: 	os.putenv
+---------------------info
+Change or add an environment variable.
+---------------------output
+<built-in function putenv>
+---------------------
+
+command: 	os.pwrite
+---------------------info
+Write bytes to a file descriptor starting at a particular offset.
+
+Write buffer to fd, starting at offset bytes from the beginning of
+the file.  Returns the number of bytes writte.  Does not change the
+current file offset.
+---------------------output
+<built-in function pwrite>
+---------------------
+
+command: 	os.read
+---------------------info
+Read from a file descriptor.  Returns a bytes object.
+---------------------output
+<built-in function read>
+---------------------
+
+command: 	os.readlink
+---------------------info
+readlink(path, *, dir_fd=None) -> path
+
+Return a string representing the path to which the symbolic link points.
+
+If dir_fd is not None, it should be a file descriptor open to a directory,
+  and path should be relative; path will then be relative to that directory.
+dir_fd may not be implemented on your platform.
+  If it is unavailable, using it will raise a NotImplementedError.
+---------------------output
+<built-in function readlink>
+---------------------
+
+command: 	os.readv
+---------------------info
+Read from a file descriptor fd into an iterable of buffers.
+
+The buffers should be mutable buffers accepting bytes.
+readv will transfer data into each buffer until it is full
+and then move on to the next buffer in the sequence to hold
+the rest of the data.
+
+readv returns the total number of bytes read,
+which may be less than the total capacity of all the buffers.
+---------------------output
+<built-in function readv>
+---------------------
+
+command: 	os.remove
+---------------------info
+Remove a file (same as unlink()).
+
+If dir_fd is not None, it should be a file descriptor open to a directory,
+  and path should be relative; path will then be relative to that directory.
+dir_fd may not be implemented on your platform.
+  If it is unavailable, using it will raise a NotImplementedError.
+---------------------output
+<built-in function remove>
+---------------------
+
+command: 	os.removedirs
+---------------------info
+removedirs(name)
+
+    Super-rmdir; remove a leaf directory and all empty intermediate
+    ones.  Works like rmdir except that, if the leaf directory is
+    successfully removed, directories corresponding to rightmost path
+    segments will be pruned away until either the whole path is
+    consumed or an error occurs.  Errors during this latter phase are
+    ignored -- they generally mean that a directory was not empty.
+
+    
+---------------------output
+<function removedirs at 0x7feed8092c80>
+---------------------
+
+command: 	os.removexattr
+---------------------info
+Remove extended attribute attribute on path.
+
+path may be either a string or an open file descriptor.
+If follow_symlinks is False, and the last element of the path is a symbolic
+  link, removexattr will modify the symbolic link itself instead of the file
+  the link points to.
+---------------------output
+<built-in function removexattr>
+---------------------
+
+command: 	os.rename
+---------------------info
+Rename a file or directory.
+
+If either src_dir_fd or dst_dir_fd is not None, it should be a file
+  descriptor open to a directory, and the respective path string (src or dst)
+  should be relative; the path will then be relative to that directory.
+src_dir_fd and dst_dir_fd, may not be implemented on your platform.
+  If they are unavailable, using them will raise a NotImplementedError.
+---------------------output
+<built-in function rename>
+---------------------
+
+command: 	os.renames
+---------------------info
+renames(old, new)
+
+    Super-rename; create directories as necessary and delete any left
+    empty.  Works like rename, except creation of any intermediate
+    directories needed to make the new pathname good is attempted
+    first.  After the rename, directories corresponding to rightmost
+    path segments of the old name will be pruned until either the
+    whole path is consumed or a nonempty directory is found.
+
+    Note: this function can fail with the new directory structure made
+    if you lack permissions needed to unlink the leaf directory or
+    file.
+
+    
+---------------------output
+<function renames at 0x7feed8092d08>
+---------------------
+
+command: 	os.replace
+---------------------info
+Rename a file or directory, overwriting the destination.
+
+If either src_dir_fd or dst_dir_fd is not None, it should be a file
+  descriptor open to a directory, and the respective path string (src or dst)
+  should be relative; the path will then be relative to that directory.
+src_dir_fd and dst_dir_fd, may not be implemented on your platform.
+  If they are unavailable, using them will raise a NotImplementedError."
+---------------------output
+<built-in function replace>
+---------------------
+
+command: 	os.rmdir
+---------------------info
+Remove a directory.
+
+If dir_fd is not None, it should be a file descriptor open to a directory,
+  and path should be relative; path will then be relative to that directory.
+dir_fd may not be implemented on your platform.
+  If it is unavailable, using it will raise a NotImplementedError.
+---------------------output
+<built-in function rmdir>
+---------------------
+
+command: 	os.scandir
+---------------------info
+scandir(path='.') -> iterator of DirEntry objects for given path
+---------------------output
+<built-in function scandir>
+---------------------
+
+command: 	os.sched_get_priority_max
+---------------------info
+Get the maximum scheduling priority for policy.
+---------------------output
+<built-in function sched_get_priority_max>
+---------------------
+
+command: 	os.sched_get_priority_min
+---------------------info
+Get the minimum scheduling priority for policy.
+---------------------output
+<built-in function sched_get_priority_min>
+---------------------
+
+command: 	os.sched_getaffinity
+---------------------info
+Return the affinity of the process identified by pid.
+
+The affinity is returned as a set of CPU identifiers.
+---------------------output
+<built-in function sched_getaffinity>
+---------------------
+
+command: 	os.sched_getparam
+---------------------info
+Returns scheduling parameters for the process identified by pid.
+
+If pid is 0, returns parameters for the calling process.
+Return value is an instance of sched_param.
+---------------------output
+<built-in function sched_getparam>
+---------------------
+
+command: 	os.sched_getscheduler
+---------------------info
+Get the scheduling policy for the process identifiedy by pid.
+
+Passing 0 for pid returns the scheduling policy for the calling process.
+---------------------output
+<built-in function sched_getscheduler>
+---------------------
+
+command: 	os.sched_param
+---------------------info
+Current has only one field: sched_priority");
+
+  sched_priority
+    A scheduling parameter.
+---------------------output
+<class 'posix.sched_param'>
+---------------------
+
+command: 	os.sched_rr_get_interval
+---------------------info
+Return the round-robin quantum for the process identified by pid, in seconds.
+
+Value returned is a float.
+---------------------output
+<built-in function sched_rr_get_interval>
+---------------------
+
+command: 	os.sched_setaffinity
+---------------------info
+Set the CPU affinity of the process identified by pid to mask.
+
+mask should be an iterable of integers identifying CPUs.
+---------------------output
+<built-in function sched_setaffinity>
+---------------------
+
+command: 	os.sched_setparam
+---------------------info
+Set scheduling parameters for the process identified by pid.
+
+If pid is 0, sets parameters for the calling process.
+param should be an instance of sched_param.
+---------------------output
+<built-in function sched_setparam>
+---------------------
+
+command: 	os.sched_setscheduler
+---------------------info
+Set the scheduling policy for the process identified by pid.
+
+If pid is 0, the calling process is changed.
+param is an instance of sched_param.
+---------------------output
+<built-in function sched_setscheduler>
+---------------------
+
+command: 	os.sched_yield
+---------------------info
+Voluntarily relinquish the CPU.
+---------------------output
+<built-in function sched_yield>
+---------------------
+
+command: 	os.sendfile
+---------------------info
+sendfile(out, in, offset, count) -> byteswritten
+sendfile(out, in, offset, count[, headers][, trailers], flags=0)
+            -> byteswritten
+Copy count bytes from file descriptor in to file descriptor out.
+---------------------output
+<built-in function sendfile>
+---------------------
+
+command: 	os.sep
+---------------------info
+str(object='') -> str
+str(bytes_or_buffer[, encoding[, errors]]) -> str
+
+Create a new string object from the given object. If encoding or
+errors is specified, then the object must expose a data buffer
+that will be decoded using the given encoding and error handler.
+Otherwise, returns the result of object.__str__() (if defined)
+or repr(object).
+encoding defaults to sys.getdefaultencoding().
+errors defaults to 'strict'.
+---------------------output
+/
+---------------------
+
+command: 	os.set_blocking
+---------------------info
+set_blocking(fd, blocking)
+
+Set the blocking mode of the specified file descriptor.
+Set the O_NONBLOCK flag if blocking is False,
+clear the O_NONBLOCK flag otherwise.
+---------------------output
+<built-in function set_blocking>
+---------------------
+
+command: 	os.set_inheritable
+---------------------info
+Set the inheritable flag of the specified file descriptor.
+---------------------output
+<built-in function set_inheritable>
+---------------------
+
+command: 	os.setegid
+---------------------info
+Set the current process's effective group id.
+---------------------output
+<built-in function setegid>
+---------------------
+
+command: 	os.seteuid
+---------------------info
+Set the current process's effective user id.
+---------------------output
+<built-in function seteuid>
+---------------------
+
+command: 	os.setgid
+---------------------info
+Set the current process's group id.
+---------------------output
+<built-in function setgid>
+---------------------
+
+command: 	os.setgroups
+---------------------info
+Set the groups of the current process to list.
+---------------------output
+<built-in function setgroups>
+---------------------
+
+command: 	os.setpgid
+---------------------info
+Call the system call setpgid(pid, pgrp).
+---------------------output
+<built-in function setpgid>
+---------------------
+
+command: 	os.setpgrp
+---------------------info
+Make the current process the leader of its process group.
+---------------------output
+<built-in function setpgrp>
+---------------------
+
+command: 	os.setpriority
+---------------------info
+Set program scheduling priority.
+---------------------output
+<built-in function setpriority>
+---------------------
+
+command: 	os.setregid
+---------------------info
+Set the current process's real and effective group ids.
+---------------------output
+<built-in function setregid>
+---------------------
+
+command: 	os.setresgid
+---------------------info
+Set the current process's real, effective, and saved group ids.
+---------------------output
+<built-in function setresgid>
+---------------------
+
+command: 	os.setresuid
+---------------------info
+Set the current process's real, effective, and saved user ids.
+---------------------output
+<built-in function setresuid>
+---------------------
+
+command: 	os.setreuid
+---------------------info
+Set the current process's real and effective user ids.
+---------------------output
+<built-in function setreuid>
+---------------------
+
+command: 	os.setsid
+---------------------info
+Call the system call setsid().
+---------------------output
+<built-in function setsid>
+---------------------
+
+command: 	os.setuid
+---------------------info
+Set the current process's user id.
+---------------------output
+<built-in function setuid>
+---------------------
+
+command: 	os.setxattr
+---------------------info
+Set extended attribute attribute on path to value.
+
+path may be either a string or an open file descriptor.
+If follow_symlinks is False, and the last element of the path is a symbolic
+  link, setxattr will modify the symbolic link itself instead of the file
+  the link points to.
+---------------------output
+<built-in function setxattr>
+---------------------
+
+command: 	os.spawnl
+---------------------info
+spawnl(mode, file, *args) -> integer
+
+Execute file with arguments from args in a subprocess.
+If mode == P_NOWAIT return the pid of the process.
+If mode == P_WAIT return the process's exit code if it exits normally;
+otherwise return -SIG, where SIG is the signal that killed it. 
+---------------------output
+<function spawnl at 0x7feed80b5bf8>
+---------------------
+
+command: 	os.spawnle
+---------------------info
+spawnle(mode, file, *args, env) -> integer
+
+Execute file with arguments from args in a subprocess with the
+supplied environment.
+If mode == P_NOWAIT return the pid of the process.
+If mode == P_WAIT return the process's exit code if it exits normally;
+otherwise return -SIG, where SIG is the signal that killed it. 
+---------------------output
+<function spawnle at 0x7feed80b5c80>
+---------------------
+
+command: 	os.spawnlp
+---------------------info
+spawnlp(mode, file, *args) -> integer
+
+Execute file (which is looked for along $PATH) with arguments from
+args in a subprocess with the supplied environment.
+If mode == P_NOWAIT return the pid of the process.
+If mode == P_WAIT return the process's exit code if it exits normally;
+otherwise return -SIG, where SIG is the signal that killed it. 
+---------------------output
+<function spawnlp at 0x7feed80b5d08>
+---------------------
+
+command: 	os.spawnlpe
+---------------------info
+spawnlpe(mode, file, *args, env) -> integer
+
+Execute file (which is looked for along $PATH) with arguments from
+args in a subprocess with the supplied environment.
+If mode == P_NOWAIT return the pid of the process.
+If mode == P_WAIT return the process's exit code if it exits normally;
+otherwise return -SIG, where SIG is the signal that killed it. 
+---------------------output
+<function spawnlpe at 0x7feed80b5d90>
+---------------------
+
+command: 	os.spawnv
+---------------------info
+spawnv(mode, file, args) -> integer
+
+Execute file with arguments from args in a subprocess.
+If mode == P_NOWAIT return the pid of the process.
+If mode == P_WAIT return the process's exit code if it exits normally;
+otherwise return -SIG, where SIG is the signal that killed it. 
+---------------------output
+<function spawnv at 0x7feed80b59d8>
+---------------------
+
+command: 	os.spawnve
+---------------------info
+spawnve(mode, file, args, env) -> integer
+
+Execute file with arguments from args in a subprocess with the
+specified environment.
+If mode == P_NOWAIT return the pid of the process.
+If mode == P_WAIT return the process's exit code if it exits normally;
+otherwise return -SIG, where SIG is the signal that killed it. 
+---------------------output
+<function spawnve at 0x7feed80b5a60>
+---------------------
+
+command: 	os.spawnvp
+---------------------info
+spawnvp(mode, file, args) -> integer
+
+Execute file (which is looked for along $PATH) with arguments from
+args in a subprocess.
+If mode == P_NOWAIT return the pid of the process.
+If mode == P_WAIT return the process's exit code if it exits normally;
+otherwise return -SIG, where SIG is the signal that killed it. 
+---------------------output
+<function spawnvp at 0x7feed80b5ae8>
+---------------------
+
+command: 	os.spawnvpe
+---------------------info
+spawnvpe(mode, file, args, env) -> integer
+
+Execute file (which is looked for along $PATH) with arguments from
+args in a subprocess with the supplied environment.
+If mode == P_NOWAIT return the pid of the process.
+If mode == P_WAIT return the process's exit code if it exits normally;
+otherwise return -SIG, where SIG is the signal that killed it. 
+---------------------output
+<function spawnvpe at 0x7feed80b5b70>
+---------------------
+
+command: 	os.stat
+---------------------info
+Perform a stat system call on the given path.
+
+  path
+    Path to be examined; can be string, bytes, or open-file-descriptor int.
+  dir_fd
+    If not None, it should be a file descriptor open to a directory,
+    and path should be a relative string; path will then be relative to
+    that directory.
+  follow_symlinks
+    If False, and the last element of the path is a symbolic link,
+    stat will examine the symbolic link itself instead of the file
+    the link points to.
+
+dir_fd and follow_symlinks may not be implemented
+  on your platform.  If they are unavailable, using them will raise a
+  NotImplementedError.
+
+It's an error to use dir_fd or follow_symlinks when specifying path as
+  an open file descriptor.
+---------------------output
+<built-in function stat>
+---------------------
+
+command: 	os.stat_float_times
+---------------------info
+stat_float_times([newval]) -> oldval
+
+Determine whether os.[lf]stat represents time stamps as float objects.
+
+If value is True, future calls to stat() return floats; if it is False,
+future calls return ints.
+If value is omitted, return the current setting.
+
+---------------------output
+<built-in function stat_float_times>
+---------------------
+
+command: 	os.stat_result
+---------------------info
+stat_result: Result from stat, fstat, or lstat.
+
+This object may be accessed either as a tuple of
+  (mode, ino, dev, nlink, uid, gid, size, atime, mtime, ctime)
+or via the attributes st_mode, st_ino, st_dev, st_nlink, st_uid, and so on.
+
+Posix/windows: If your platform supports st_blksize, st_blocks, st_rdev,
+or st_flags, they are available as attributes only.
+
+See os.stat for more information.
+---------------------output
+<class 'os.stat_result'>
+---------------------
+
+command: 	os.statvfs
+---------------------info
+Perform a statvfs system call on the given path.
+
+path may always be specified as a string.
+On some platforms, path may also be specified as an open file descriptor.
+  If this functionality is unavailable, using it raises an exception.
+---------------------output
+<built-in function statvfs>
+---------------------
+
+command: 	os.statvfs_result
+---------------------info
+statvfs_result: Result from statvfs or fstatvfs.
+
+This object may be accessed either as a tuple of
+  (bsize, frsize, blocks, bfree, bavail, files, ffree, favail, flag, namemax),
+or via the attributes f_bsize, f_frsize, f_blocks, f_bfree, and so on.
+
+See os.statvfs for more information.
+---------------------output
+<class 'os.statvfs_result'>
+---------------------
+
+command: 	os.strerror
+---------------------info
+Translate an error code to a message string.
+---------------------output
+<built-in function strerror>
+---------------------
+
+command: 	os.supports_bytes_environ
+---------------------info
+bool(x) -> bool
+
+Returns True when the argument x is true, False otherwise.
+The builtins True and False are the only two instances of the class bool.
+The class bool is a subclass of the class int, and cannot be subclassed.
+---------------------output
+True
+---------------------
+
+command: 	os.symlink
+---------------------info
+Create a symbolic link pointing to src named dst.
+
+target_is_directory is required on Windows if the target is to be
+  interpreted as a directory.  (On Windows, symlink requires
+  Windows 6.0 or greater, and raises a NotImplementedError otherwise.)
+  target_is_directory is ignored on non-Windows platforms.
+
+If dir_fd is not None, it should be a file descriptor open to a directory,
+  and path should be relative; path will then be relative to that directory.
+dir_fd may not be implemented on your platform.
+  If it is unavailable, using it will raise a NotImplementedError.
+---------------------output
+<built-in function symlink>
+---------------------
+
+command: 	os.sync
+---------------------info
+Force write of everything to disk.
+---------------------output
+<built-in function sync>
+---------------------
+
+command: 	os.sysconf
+---------------------info
+Return an integer-valued system configuration variable.
+---------------------output
+<built-in function sysconf>
+---------------------
+
+command: 	os.sysconf_names
+---------------------info
+dict() -> new empty dictionary
+dict(mapping) -> new dictionary initialized from a mapping object's
+    (key, value) pairs
+dict(iterable) -> new dictionary initialized as if via:
+    d = {}
+    for k, v in iterable:
+        d[k] = v
+dict(**kwargs) -> new dictionary initialized with the name=value pairs
+    in the keyword argument list.  For example:  dict(one=1, two=2)
+---------------------output
+{'SC_SELECT': 59, 'SC_NL_MSGMAX': 121, 'SC_AIO_LISTIO_MAX': 23, 'SC_2_C_VERSION': 96, 'SC_CLK_TCK': 2, 'SC_VERSION': 29, 'SC_SAVED_IDS': 8, 'SC_MQ_OPEN_MAX': 27, 'SC_CHARCLASS_NAME_MAX': 45, 'SC_INT_MAX': 104, 'SC_XOPEN_ENH_I18N': 93, 'SC_PII_INTERNET_DGRAM': 62, 'SC_THREAD_ATTR_STACKADDR': 77, 'SC_TZNAME_MAX': 6, 'SC_SHRT_MIN': 114, 'SC_PRIORITY_SCHEDULING': 10, 'SC_EXPR_NEST_MAX': 42, 'SC_XOPEN_XCU_VERSION': 90, 'SC_SSIZE_MAX': 110, 'SC_MESSAGE_PASSING': 20, 'SC_PII_OSI_COTS': 63, 'SC_XOPEN_XPG4': 100, 'SC_BC_DIM_MAX': 37, 'SC_XOPEN_REALTIME_THREADS': 131, 'SC_NL_SETMAX': 123, 'SC_NGROUPS_MAX': 3, 'SC_DELAYTIMER_MAX': 26, 'SC_XOPEN_UNIX': 91, 'SC_MQ_PRIO_MAX': 28, 'SC_REALTIME_SIGNALS': 9, 'SC_SYNCHRONIZED_IO': 14, 'SC_SEM_NSEMS_MAX': 32, 'SC_NL_TEXTMAX': 124, 'SC_PAGE_SIZE': 30, 'SC_PII_OSI': 57, 'SC_JOB_CONTROL': 7, 'SC_XOPEN_VERSION': 89, 'SC_SEMAPHORES': 21, 'SC_2_UPE': 97, 'SC_SCHAR_MIN': 112, 'SC_PHYS_PAGES': 85, 'SC_UINT_MAX': 116, 'SC_2_C_BIND': 47, 'SC_WORD_BIT': 107, 'SC_2_C_DEV': 48, 'SC_NPROCESSORS_ONLN': 84, 'SC_THREAD_THREADS_MAX': 76, 'SC_2_FORT_DEV': 49, 'SC_PII_SOCKET': 55, 'SC_THREAD_PRIO_INHERIT': 80, 'SC_GETGR_R_SIZE_MAX': 69, 'SC_LINE_MAX': 43, 'SC_THREAD_DESTRUCTOR_ITERATIONS': 73, 'SC_PASS_MAX': 88, 'SC_CHAR_BIT': 101, 'SC_LONG_BIT': 106, 'SC_NL_LANGMAX': 120, 'SC_SHARED_MEMORY_OBJECTS': 22, 'SC_ARG_MAX': 0, 'SC_GETPW_R_SIZE_MAX': 70, 'SC_NL_ARGMAX': 119, 'SC_CHAR_MIN': 103, 'SC_2_SW_DEV': 51, 'SC_PII_OSI_CLTS': 64, 'SC_PII_INTERNET': 56, 'SC_PII_XTI': 54, 'SC_THREAD_PRIORITY_SCHEDULING': 79, 'SC_THREAD_PROCESS_SHARED': 82, 'SC_RE_DUP_MAX': 44, 'SC_NZERO': 109, 'SC_MB_LEN_MAX': 108, 'SC_NPROCESSORS_CONF': 83, 'SC_PII_OSI_M': 65, 'SC_MEMORY_PROTECTION': 19, 'SC_PII': 53, 'SC_ATEXIT_MAX': 87, 'SC_COLL_WEIGHTS_MAX': 40, 'SC_RTSIG_MAX': 31, 'SC_T_IOV_MAX': 66, 'SC_2_CHAR_TERM': 95, 'SC_XBS5_LPBIG_OFFBIG': 128, 'SC_TIMER_MAX': 35, 'SC_THREAD_STACK_MIN': 75, 'SC_MEMLOCK': 17, 'SC_XOPEN_REALTIME': 130, 'SC_USHRT_MAX': 118, 'SC_TIMERS': 11, 'SC_LOGIN_NAME_MAX': 71, 'SC_MEMLOCK_RANGE': 18, 'SC_THREAD_PRIO_PROTECT': 81, 'SC_THREAD_ATTR_STACKSIZE': 78, 'SC_INT_MIN': 105, 'SC_THREAD_KEYS_MAX': 74, 'SC_MAPPED_FILES': 16, 'SC_UIO_MAXIOV': 60, 'SC_PII_INTERNET_STREAM': 61, 'SC_THREAD_SAFE_FUNCTIONS': 68, 'SC_XBS5_LP64_OFF64': 127, 'SC_2_VERSION': 46, 'SC_THREADS': 67, 'SC_SEM_VALUE_MAX': 33, 'SC_XBS5_ILP32_OFFBIG': 126, 'SC_PAGESIZE': 30, 'SC_ULONG_MAX': 117, 'SC_AIO_PRIO_DELTA_MAX': 25, 'SC_TTY_NAME_MAX': 72, 'SC_PRIORITIZED_IO': 13, 'SC_SHRT_MAX': 113, 'SC_BC_STRING_MAX': 39, 'SC_2_LOCALEDEF': 52, 'SC_BC_BASE_MAX': 36, 'SC_ASYNCHRONOUS_IO': 12, 'SC_AVPHYS_PAGES': 86, 'SC_XOPEN_LEGACY': 129, 'SC_XOPEN_XPG2': 98, 'SC_2_FORT_RUN': 50, 'SC_SCHAR_MAX': 111, 'SC_EQUIV_CLASS_MAX': 41, 'SC_CHILD_MAX': 1, 'SC_XOPEN_XPG3': 99, 'SC_UCHAR_MAX': 115, 'SC_OPEN_MAX': 4, 'SC_AIO_MAX': 24, 'SC_POLL': 58, 'SC_FSYNC': 15, 'SC_XBS5_ILP32_OFF32': 125, 'SC_CHAR_MAX': 102, 'SC_IOV_MAX': 60, 'SC_SIGQUEUE_MAX': 34, 'SC_XOPEN_CRYPT': 92, 'SC_XOPEN_SHM': 94, 'SC_NL_NMAX': 122, 'SC_STREAM_MAX': 5, 'SC_BC_SCALE_MAX': 38}
+---------------------
+
+command: 	os.system
+---------------------info
+Execute the command in a subshell.
+---------------------output
+<built-in function system>
+---------------------
+
+command: 	os.tcgetpgrp
+---------------------info
+Return the process group associated with the terminal specified by fd.
+---------------------output
+<built-in function tcgetpgrp>
+---------------------
+
+command: 	os.tcsetpgrp
+---------------------info
+Set the process group associated with the terminal specified by fd.
+---------------------output
+<built-in function tcsetpgrp>
+---------------------
+
+command: 	os.terminal_size
+---------------------info
+A tuple of (columns, lines) for holding terminal window size
+---------------------output
+<class 'os.terminal_size'>
+---------------------
+
+command: 	os.times
+---------------------info
+Return a collection containing process timing information.
+
+The object returned behaves like a named tuple with these fields:
+  (utime, stime, cutime, cstime, elapsed_time)
+All fields are floating point numbers.
+---------------------output
+<built-in function times>
+---------------------
+
+command: 	os.times_result
+---------------------info
+times_result: Result from os.times().
+
+This object may be accessed either as a tuple of
+  (user, system, children_user, children_system, elapsed),
+or via the attributes user, system, children_user, children_system,
+and elapsed.
+
+See os.times for more information.
+---------------------output
+<class 'posix.times_result'>
+---------------------
+
+command: 	os.truncate
+---------------------info
+Truncate a file, specified by path, to a specific length.
+
+On some platforms, path may also be specified as an open file descriptor.
+  If this functionality is unavailable, using it raises an exception.
+---------------------output
+<built-in function truncate>
+---------------------
+
+command: 	os.ttyname
+---------------------info
+Return the name of the terminal device connected to 'fd'.
+
+  fd
+    Integer file descriptor handle.
+---------------------output
+<built-in function ttyname>
+---------------------
+
+command: 	os.umask
+---------------------info
+Set the current numeric umask and return the previous umask.
+---------------------output
+<built-in function umask>
+---------------------
+
+command: 	os.uname
+---------------------info
+Return an object identifying the current operating system.
+
+The object behaves like a named tuple with the following fields:
+  (sysname, nodename, release, version, machine)
+---------------------output
+<built-in function uname>
+---------------------
+
+command: 	os.uname_result
+---------------------info
+uname_result: Result from os.uname().
+
+This object may be accessed either as a tuple of
+  (sysname, nodename, release, version, machine),
+or via the attributes sysname, nodename, release, version, and machine.
+
+See os.uname for more information.
+---------------------output
+<class 'posix.uname_result'>
+---------------------
+
+command: 	os.unlink
+---------------------info
+Remove a file (same as remove()).
+
+If dir_fd is not None, it should be a file descriptor open to a directory,
+  and path should be relative; path will then be relative to that directory.
+dir_fd may not be implemented on your platform.
+  If it is unavailable, using it will raise a NotImplementedError.
+---------------------output
+<built-in function unlink>
+---------------------
+
+command: 	os.unsetenv
+---------------------info
+Delete an environment variable.
+---------------------output
+<built-in function unsetenv>
+---------------------
+
+command: 	os.urandom
+---------------------info
+Return a bytes object containing random bytes suitable for cryptographic use.
+---------------------output
+<built-in function urandom>
+---------------------
+
+command: 	os.utime
+---------------------info
+Set the access and modified time of path.
+
+path may always be specified as a string.
+On some platforms, path may also be specified as an open file descriptor.
+  If this functionality is unavailable, using it raises an exception.
+
+If times is not None, it must be a tuple (atime, mtime);
+    atime and mtime should be expressed as float seconds since the epoch.
+If ns is specified, it must be a tuple (atime_ns, mtime_ns);
+    atime_ns and mtime_ns should be expressed as integer nanoseconds
+    since the epoch.
+If times is None and ns is unspecified, utime uses the current time.
+Specifying tuples for both times and ns is an error.
+
+If dir_fd is not None, it should be a file descriptor open to a directory,
+  and path should be relative; path will then be relative to that directory.
+If follow_symlinks is False, and the last element of the path is a symbolic
+  link, utime will modify the symbolic link itself instead of the file the
+  link points to.
+It is an error to use dir_fd or follow_symlinks when specifying path
+  as an open file descriptor.
+dir_fd and follow_symlinks may not be available on your platform.
+  If they are unavailable, using them will raise a NotImplementedError.
+---------------------output
+<built-in function utime>
+---------------------
+
+command: 	os.wait
+---------------------info
+Wait for completion of a child process.
+
+Returns a tuple of information about the child process:
+    (pid, status)
+---------------------output
+<built-in function wait>
+---------------------
+
+command: 	os.wait3
+---------------------info
+Wait for completion of a child process.
+
+Returns a tuple of information about the child process:
+  (pid, status, rusage)
+---------------------output
+<built-in function wait3>
+---------------------
+
+command: 	os.wait4
+---------------------info
+Wait for completion of a specific child process.
+
+Returns a tuple of information about the child process:
+  (pid, status, rusage)
+---------------------output
+<built-in function wait4>
+---------------------
+
+command: 	os.waitid
+---------------------info
+Returns the result of waiting for a process or processes.
+
+  idtype
+    Must be one of be P_PID, P_PGID or P_ALL.
+  id
+    The id to wait on.
+  options
+    Constructed from the ORing of one or more of WEXITED, WSTOPPED
+    or WCONTINUED and additionally may be ORed with WNOHANG or WNOWAIT.
+
+Returns either waitid_result or None if WNOHANG is specified and there are
+no children in a waitable state.
+---------------------output
+<built-in function waitid>
+---------------------
+
+command: 	os.waitid_result
+---------------------info
+waitid_result: Result from waitid.
+
+This object may be accessed either as a tuple of
+  (si_pid, si_uid, si_signo, si_status, si_code),
+or via the attributes si_pid, si_uid, and so on.
+
+See os.waitid for more information.
+---------------------output
+<class 'posix.waitid_result'>
+---------------------
+
+command: 	os.waitpid
+---------------------info
+Wait for completion of a given child process.
+
+Returns a tuple of information regarding the child process:
+    (pid, status)
+
+The options argument is ignored on Windows.
+---------------------output
+<built-in function waitpid>
+---------------------
+
+command: 	os.walk
+---------------------info
+Directory tree generator.
+
+    For each directory in the directory tree rooted at top (including top
+    itself, but excluding '.' and '..'), yields a 3-tuple
+
+        dirpath, dirnames, filenames
+
+    dirpath is a string, the path to the directory.  dirnames is a list of
+    the names of the subdirectories in dirpath (excluding '.' and '..').
+    filenames is a list of the names of the non-directory files in dirpath.
+    Note that the names in the lists are just names, with no path components.
+    To get a full path (which begins with top) to a file or directory in
+    dirpath, do os.path.join(dirpath, name).
+
+    If optional arg 'topdown' is true or not specified, the triple for a
+    directory is generated before the triples for any of its subdirectories
+    (directories are generated top down).  If topdown is false, the triple
+    for a directory is generated after the triples for all of its
+    subdirectories (directories are generated bottom up).
+
+    When topdown is true, the caller can modify the dirnames list in-place
+    (e.g., via del or slice assignment), and walk will only recurse into the
+    subdirectories whose names remain in dirnames; this can be used to prune the
+    search, or to impose a specific order of visiting.  Modifying dirnames when
+    topdown is false is ineffective, since the directories in dirnames have
+    already been generated by the time dirnames itself is generated. No matter
+    the value of topdown, the list of subdirectories is retrieved before the
+    tuples for the directory and its subdirectories are generated.
+
+    By default errors from the os.scandir() call are ignored.  If
+    optional arg 'onerror' is specified, it should be a function; it
+    will be called with one argument, an OSError instance.  It can
+    report the error to continue with the walk, or raise the exception
+    to abort the walk.  Note that the filename is available as the
+    filename attribute of the exception object.
+
+    By default, os.walk does not follow symbolic links to subdirectories on
+    systems that support them.  In order to get this functionality, set the
+    optional argument 'followlinks' to true.
+
+    Caution:  if you pass a relative pathname for top, don't change the
+    current working directory between resumptions of walk.  walk never
+    changes the current directory, and assumes that the client doesn't
+    either.
+
+    Example:
+
+    import os
+    from os.path import join, getsize
+    for root, dirs, files in os.walk('python/Lib/email'):
+        print(root, "consumes", end="")
+        print(sum([getsize(join(root, name)) for name in files]), end="")
+        print("bytes in", len(files), "non-directory files")
+        if 'CVS' in dirs:
+            dirs.remove('CVS')  # don't visit CVS directories
+
+    
+---------------------output
+<function walk at 0x7feed8092d90>
+---------------------
+
+command: 	os.write
+---------------------info
+Write a bytes object to a file descriptor.
+---------------------output
+<built-in function write>
+---------------------
+
+command: 	os.writev
+---------------------info
+Iterate over buffers, and write the contents of each to a file descriptor.
+
+Returns the total number of bytes written.
+buffers must be a sequence of bytes-like objects.
+---------------------output
+<built-in function writev>
+---------------------
+
