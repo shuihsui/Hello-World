@@ -15,8 +15,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-6
----------------------
+
+*************Need Args
 
 command: 	os.CLD_DUMPED
 ---------------------info
@@ -35,8 +35,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-3
----------------------
+
+*************Need Args
 
 command: 	os.CLD_EXITED
 ---------------------info
@@ -55,8 +55,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-1
----------------------
+
+*************Need Args
 
 command: 	os.CLD_TRAPPED
 ---------------------info
@@ -75,8 +75,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-4
----------------------
+
+*************Need Args
 
 command: 	os.EX_CANTCREAT
 ---------------------info
@@ -95,8 +95,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-73
----------------------
+
+*************Need Args
 
 command: 	os.EX_CONFIG
 ---------------------info
@@ -115,8 +115,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-78
----------------------
+
+*************Need Args
 
 command: 	os.EX_DATAERR
 ---------------------info
@@ -135,8 +135,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-65
----------------------
+
+*************Need Args
 
 command: 	os.EX_IOERR
 ---------------------info
@@ -155,8 +155,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-74
----------------------
+
+*************Need Args
 
 command: 	os.EX_NOHOST
 ---------------------info
@@ -175,8 +175,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-68
----------------------
+
+*************Need Args
 
 command: 	os.EX_NOINPUT
 ---------------------info
@@ -195,8 +195,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-66
----------------------
+
+*************Need Args
 
 command: 	os.EX_NOPERM
 ---------------------info
@@ -215,8 +215,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-77
----------------------
+
+*************Need Args
 
 command: 	os.EX_NOUSER
 ---------------------info
@@ -235,8 +235,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-67
----------------------
+
+*************Need Args
 
 command: 	os.EX_OK
 ---------------------info
@@ -255,8 +255,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-0
----------------------
+
+*************Need Args
 
 command: 	os.EX_OSERR
 ---------------------info
@@ -275,8 +275,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-71
----------------------
+
+*************Need Args
 
 command: 	os.EX_OSFILE
 ---------------------info
@@ -295,8 +295,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-72
----------------------
+
+*************Need Args
 
 command: 	os.EX_PROTOCOL
 ---------------------info
@@ -315,8 +315,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-76
----------------------
+
+*************Need Args
 
 command: 	os.EX_SOFTWARE
 ---------------------info
@@ -335,8 +335,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-70
----------------------
+
+*************Need Args
 
 command: 	os.EX_TEMPFAIL
 ---------------------info
@@ -355,8 +355,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-75
----------------------
+
+*************Need Args
 
 command: 	os.EX_UNAVAILABLE
 ---------------------info
@@ -375,8 +375,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-69
----------------------
+
+*************Need Args
 
 command: 	os.EX_USAGE
 ---------------------info
@@ -395,8 +395,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-64
----------------------
+
+*************Need Args
 
 command: 	os.F_LOCK
 ---------------------info
@@ -415,8 +415,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-1
----------------------
+
+*************Need Args
 
 command: 	os.F_OK
 ---------------------info
@@ -435,8 +435,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-0
----------------------
+
+*************Need Args
 
 command: 	os.F_TEST
 ---------------------info
@@ -455,8 +455,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-3
----------------------
+
+*************Need Args
 
 command: 	os.F_TLOCK
 ---------------------info
@@ -475,8 +475,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-2
----------------------
+
+*************Need Args
 
 command: 	os.F_ULOCK
 ---------------------info
@@ -495,8 +495,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-0
----------------------
+
+*************Need Args
 
 command: 	os.NGROUPS_MAX
 ---------------------info
@@ -515,8 +515,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-65536
----------------------
+
+*************Need Args
 
 command: 	os.O_ACCMODE
 ---------------------info
@@ -535,8 +535,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-3
----------------------
+
+*************Need Args
 
 command: 	os.O_APPEND
 ---------------------info
@@ -555,8 +555,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-1024
----------------------
+
+*************Need Args
 
 command: 	os.O_ASYNC
 ---------------------info
@@ -575,8 +575,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-8192
----------------------
+
+*************Need Args
 
 command: 	os.O_CLOEXEC
 ---------------------info
@@ -595,8 +595,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-524288
----------------------
+
+*************Need Args
 
 command: 	os.O_CREAT
 ---------------------info
@@ -615,8 +615,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-64
----------------------
+
+*************Need Args
 
 command: 	os.O_DIRECT
 ---------------------info
@@ -635,8 +635,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-16384
----------------------
+
+*************Need Args
 
 command: 	os.O_DIRECTORY
 ---------------------info
@@ -655,8 +655,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-65536
----------------------
+
+*************Need Args
 
 command: 	os.O_DSYNC
 ---------------------info
@@ -675,8 +675,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-4096
----------------------
+
+*************Need Args
 
 command: 	os.O_EXCL
 ---------------------info
@@ -695,8 +695,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-128
----------------------
+
+*************Need Args
 
 command: 	os.O_LARGEFILE
 ---------------------info
@@ -715,8 +715,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-0
----------------------
+
+*************Need Args
 
 command: 	os.O_NDELAY
 ---------------------info
@@ -735,8 +735,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-2048
----------------------
+
+*************Need Args
 
 command: 	os.O_NOATIME
 ---------------------info
@@ -755,8 +755,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-262144
----------------------
+
+*************Need Args
 
 command: 	os.O_NOCTTY
 ---------------------info
@@ -775,8 +775,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-256
----------------------
+
+*************Need Args
 
 command: 	os.O_NOFOLLOW
 ---------------------info
@@ -795,8 +795,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-131072
----------------------
+
+*************Need Args
 
 command: 	os.O_NONBLOCK
 ---------------------info
@@ -815,8 +815,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-2048
----------------------
+
+*************Need Args
 
 command: 	os.O_PATH
 ---------------------info
@@ -835,8 +835,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-2097152
----------------------
+
+*************Need Args
 
 command: 	os.O_RDONLY
 ---------------------info
@@ -855,8 +855,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-0
----------------------
+
+*************Need Args
 
 command: 	os.O_RDWR
 ---------------------info
@@ -875,8 +875,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-2
----------------------
+
+*************Need Args
 
 command: 	os.O_RSYNC
 ---------------------info
@@ -895,8 +895,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-1052672
----------------------
+
+*************Need Args
 
 command: 	os.O_SYNC
 ---------------------info
@@ -915,8 +915,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-1052672
----------------------
+
+*************Need Args
 
 command: 	os.O_TMPFILE
 ---------------------info
@@ -935,8 +935,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-4259840
----------------------
+
+*************Need Args
 
 command: 	os.O_TRUNC
 ---------------------info
@@ -955,8 +955,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-512
----------------------
+
+*************Need Args
 
 command: 	os.O_WRONLY
 ---------------------info
@@ -975,8 +975,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-1
----------------------
+
+*************Need Args
 
 command: 	os.POSIX_FADV_DONTNEED
 ---------------------info
@@ -995,8 +995,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-4
----------------------
+
+*************Need Args
 
 command: 	os.POSIX_FADV_NOREUSE
 ---------------------info
@@ -1015,8 +1015,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-5
----------------------
+
+*************Need Args
 
 command: 	os.POSIX_FADV_NORMAL
 ---------------------info
@@ -1035,8 +1035,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-0
----------------------
+
+*************Need Args
 
 command: 	os.POSIX_FADV_RANDOM
 ---------------------info
@@ -1055,8 +1055,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-1
----------------------
+
+*************Need Args
 
 command: 	os.POSIX_FADV_SEQUENTIAL
 ---------------------info
@@ -1075,8 +1075,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-2
----------------------
+
+*************Need Args
 
 command: 	os.POSIX_FADV_WILLNEED
 ---------------------info
@@ -1095,8 +1095,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-3
----------------------
+
+*************Need Args
 
 command: 	os.PRIO_PGRP
 ---------------------info
@@ -1115,8 +1115,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-1
----------------------
+
+*************Need Args
 
 command: 	os.PRIO_PROCESS
 ---------------------info
@@ -1135,8 +1135,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-0
----------------------
+
+*************Need Args
 
 command: 	os.PRIO_USER
 ---------------------info
@@ -1155,8 +1155,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-2
----------------------
+
+*************Need Args
 
 command: 	os.P_ALL
 ---------------------info
@@ -1175,8 +1175,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-0
----------------------
+
+*************Need Args
 
 command: 	os.P_NOWAIT
 ---------------------info
@@ -1195,8 +1195,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-1
----------------------
+
+*************Need Args
 
 command: 	os.P_NOWAITO
 ---------------------info
@@ -1215,8 +1215,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-1
----------------------
+
+*************Need Args
 
 command: 	os.P_PGID
 ---------------------info
@@ -1235,8 +1235,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-2
----------------------
+
+*************Need Args
 
 command: 	os.P_PID
 ---------------------info
@@ -1255,8 +1255,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-1
----------------------
+
+*************Need Args
 
 command: 	os.P_WAIT
 ---------------------info
@@ -1275,8 +1275,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-0
----------------------
+
+*************Need Args
 
 command: 	os.RTLD_DEEPBIND
 ---------------------info
@@ -1295,8 +1295,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-8
----------------------
+
+*************Need Args
 
 command: 	os.RTLD_GLOBAL
 ---------------------info
@@ -1315,8 +1315,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-256
----------------------
+
+*************Need Args
 
 command: 	os.RTLD_LAZY
 ---------------------info
@@ -1335,8 +1335,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-1
----------------------
+
+*************Need Args
 
 command: 	os.RTLD_LOCAL
 ---------------------info
@@ -1355,8 +1355,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-0
----------------------
+
+*************Need Args
 
 command: 	os.RTLD_NODELETE
 ---------------------info
@@ -1375,8 +1375,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-4096
----------------------
+
+*************Need Args
 
 command: 	os.RTLD_NOLOAD
 ---------------------info
@@ -1395,8 +1395,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-4
----------------------
+
+*************Need Args
 
 command: 	os.RTLD_NOW
 ---------------------info
@@ -1415,8 +1415,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-2
----------------------
+
+*************Need Args
 
 command: 	os.R_OK
 ---------------------info
@@ -1435,8 +1435,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-4
----------------------
+
+*************Need Args
 
 command: 	os.SCHED_BATCH
 ---------------------info
@@ -1455,8 +1455,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-3
----------------------
+
+*************Need Args
 
 command: 	os.SCHED_FIFO
 ---------------------info
@@ -1475,8 +1475,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-1
----------------------
+
+*************Need Args
 
 command: 	os.SCHED_IDLE
 ---------------------info
@@ -1495,8 +1495,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-5
----------------------
+
+*************Need Args
 
 command: 	os.SCHED_OTHER
 ---------------------info
@@ -1515,8 +1515,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-0
----------------------
+
+*************Need Args
 
 command: 	os.SCHED_RESET_ON_FORK
 ---------------------info
@@ -1535,8 +1535,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-1073741824
----------------------
+
+*************Need Args
 
 command: 	os.SCHED_RR
 ---------------------info
@@ -1555,8 +1555,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-2
----------------------
+
+*************Need Args
 
 command: 	os.SEEK_CUR
 ---------------------info
@@ -1575,8 +1575,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-1
----------------------
+
+*************Need Args
 
 command: 	os.SEEK_DATA
 ---------------------info
@@ -1595,8 +1595,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-3
----------------------
+
+*************Need Args
 
 command: 	os.SEEK_END
 ---------------------info
@@ -1615,8 +1615,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-2
----------------------
+
+*************Need Args
 
 command: 	os.SEEK_HOLE
 ---------------------info
@@ -1635,8 +1635,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-4
----------------------
+
+*************Need Args
 
 command: 	os.SEEK_SET
 ---------------------info
@@ -1655,8 +1655,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-0
----------------------
+
+*************Need Args
 
 command: 	os.ST_APPEND
 ---------------------info
@@ -1675,8 +1675,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-256
----------------------
+
+*************Need Args
 
 command: 	os.ST_MANDLOCK
 ---------------------info
@@ -1695,8 +1695,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-64
----------------------
+
+*************Need Args
 
 command: 	os.ST_NOATIME
 ---------------------info
@@ -1715,8 +1715,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-1024
----------------------
+
+*************Need Args
 
 command: 	os.ST_NODEV
 ---------------------info
@@ -1735,8 +1735,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-4
----------------------
+
+*************Need Args
 
 command: 	os.ST_NODIRATIME
 ---------------------info
@@ -1755,8 +1755,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-2048
----------------------
+
+*************Need Args
 
 command: 	os.ST_NOEXEC
 ---------------------info
@@ -1775,8 +1775,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-8
----------------------
+
+*************Need Args
 
 command: 	os.ST_NOSUID
 ---------------------info
@@ -1795,8 +1795,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-2
----------------------
+
+*************Need Args
 
 command: 	os.ST_RDONLY
 ---------------------info
@@ -1815,8 +1815,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-1
----------------------
+
+*************Need Args
 
 command: 	os.ST_RELATIME
 ---------------------info
@@ -1835,8 +1835,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-4096
----------------------
+
+*************Need Args
 
 command: 	os.ST_SYNCHRONOUS
 ---------------------info
@@ -1855,8 +1855,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-16
----------------------
+
+*************Need Args
 
 command: 	os.ST_WRITE
 ---------------------info
@@ -1875,8 +1875,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-128
----------------------
+
+*************Need Args
 
 command: 	os.TMP_MAX
 ---------------------info
@@ -1895,8 +1895,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-238328
----------------------
+
+*************Need Args
 
 command: 	os.WCONTINUED
 ---------------------info
@@ -1915,15 +1915,15 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-8
----------------------
+
+*************Need Args
 
 command: 	os.WCOREDUMP
 ---------------------info
 Return True if the process returning status was dumped to a core file.
 ---------------------output
-<built-in function WCOREDUMP>
----------------------
+
+*************Need Args
 
 command: 	os.WEXITED
 ---------------------info
@@ -1942,15 +1942,15 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-4
----------------------
+
+*************Need Args
 
 command: 	os.WEXITSTATUS
 ---------------------info
 Return the process return code from status.
 ---------------------output
-<built-in function WEXITSTATUS>
----------------------
+
+*************Need Args
 
 command: 	os.WIFCONTINUED
 ---------------------info
@@ -1959,29 +1959,29 @@ Return True if a particular process was continued from a job control stop.
 Return True if the process returning status was continued from a
 job control stop.
 ---------------------output
-<built-in function WIFCONTINUED>
----------------------
+
+*************Need Args
 
 command: 	os.WIFEXITED
 ---------------------info
 Return True if the process returning status exited via the exit() system call.
 ---------------------output
-<built-in function WIFEXITED>
----------------------
+
+*************Need Args
 
 command: 	os.WIFSIGNALED
 ---------------------info
 Return True if the process returning status was terminated by a signal.
 ---------------------output
-<built-in function WIFSIGNALED>
----------------------
+
+*************Need Args
 
 command: 	os.WIFSTOPPED
 ---------------------info
 Return True if the process returning status was stopped.
 ---------------------output
-<built-in function WIFSTOPPED>
----------------------
+
+*************Need Args
 
 command: 	os.WNOHANG
 ---------------------info
@@ -2000,8 +2000,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-1
----------------------
+
+*************Need Args
 
 command: 	os.WNOWAIT
 ---------------------info
@@ -2020,8 +2020,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-16777216
----------------------
+
+*************Need Args
 
 command: 	os.WSTOPPED
 ---------------------info
@@ -2040,22 +2040,22 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-2
----------------------
+
+*************Need Args
 
 command: 	os.WSTOPSIG
 ---------------------info
 Return the signal that stopped the process that provided the status value.
 ---------------------output
-<built-in function WSTOPSIG>
----------------------
+
+*************Need Args
 
 command: 	os.WTERMSIG
 ---------------------info
 Return the signal that terminated the process that provided the status value.
 ---------------------output
-<built-in function WTERMSIG>
----------------------
+
+*************Need Args
 
 command: 	os.WUNTRACED
 ---------------------info
@@ -2074,8 +2074,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-2
----------------------
+
+*************Need Args
 
 command: 	os.W_OK
 ---------------------info
@@ -2094,8 +2094,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-2
----------------------
+
+*************Need Args
 
 command: 	os.XATTR_CREATE
 ---------------------info
@@ -2114,8 +2114,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-1
----------------------
+
+*************Need Args
 
 command: 	os.XATTR_REPLACE
 ---------------------info
@@ -2134,8 +2134,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-2
----------------------
+
+*************Need Args
 
 command: 	os.XATTR_SIZE_MAX
 ---------------------info
@@ -2154,8 +2154,8 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-65536
----------------------
+
+*************Need Args
 
 command: 	os.X_OK
 ---------------------info
@@ -2174,15 +2174,15 @@ Base 0 means to interpret the base from the string as an integer literal.
 >>> int('0b100', base=0)
 4
 ---------------------output
-1
----------------------
+
+*************Need Args
 
 command: 	os._exit
 ---------------------info
 Exit to the system with specified status, without normal exit processing.
 ---------------------output
-<built-in function _exit>
----------------------
+
+*************Need Args
 
 command: 	os.abort
 ---------------------info
@@ -2191,8 +2191,8 @@ Abort the interpreter immediately.
 This function 'dumps core' or otherwise fails in the hardest way possible
 on the hosting operating system.  This function never returns.
 ---------------------output
-<built-in function abort>
----------------------
+
+*************Need Args
 
 command: 	os.access
 ---------------------info
@@ -2223,15 +2223,15 @@ Note that most operations will use the effective uid/gid, therefore this
   routine can be used in a suid/sgid environment to test if the invoking user
   has the specified access to the path.
 ---------------------output
-<built-in function access>
----------------------
+
+*************Need Args
 
 command: 	os.altsep
 ---------------------info
 None
 ---------------------output
-None
----------------------
+
+*************Need Args
 
 command: 	os.chdir
 ---------------------info
@@ -2241,8 +2241,8 @@ path may always be specified as a string.
 On some platforms, path may also be specified as an open file descriptor.
   If this functionality is unavailable, using it raises an exception.
 ---------------------output
-<built-in function chdir>
----------------------
+
+*************Need Args
 
 command: 	os.chmod
 ---------------------info
@@ -2268,8 +2268,8 @@ It is an error to use dir_fd or follow_symlinks when specifying path as
 dir_fd and follow_symlinks may not be implemented on your platform.
   If they are unavailable, using them will raise a NotImplementedError.
 ---------------------output
-<built-in function chmod>
----------------------
+
+*************Need Args
 
 command: 	os.chown
 ---------------------info
@@ -2299,36 +2299,36 @@ It is an error to use dir_fd or follow_symlinks when specifying path as
 dir_fd and follow_symlinks may not be implemented on your platform.
   If they are unavailable, using them will raise a NotImplementedError.
 ---------------------output
-<built-in function chown>
----------------------
+
+*************Need Args
 
 command: 	os.chroot
 ---------------------info
 Change root directory to path.
 ---------------------output
-<built-in function chroot>
----------------------
+
+*************Need Args
 
 command: 	os.close
 ---------------------info
 Close a file descriptor.
 ---------------------output
-<built-in function close>
----------------------
+
+*************Need Args
 
 command: 	os.closerange
 ---------------------info
 Closes all file descriptors in [fd_low, fd_high), ignoring errors.
 ---------------------output
-<built-in function closerange>
----------------------
+
+*************Need Args
 
 command: 	os.confstr
 ---------------------info
 Return a string-valued system configuration variable.
 ---------------------output
-<built-in function confstr>
----------------------
+
+*************Need Args
 
 command: 	os.confstr_names
 ---------------------info
@@ -2342,22 +2342,22 @@ dict(iterable) -> new dictionary initialized as if via:
 dict(**kwargs) -> new dictionary initialized with the name=value pairs
     in the keyword argument list.  For example:  dict(one=1, two=2)
 ---------------------output
-{'CS_LFS_CFLAGS': 1000, 'CS_LFS64_LINTFLAGS': 1007, 'CS_XBS5_LP64_OFF64_CFLAGS': 1108, 'CS_XBS5_ILP32_OFFBIG_LDFLAGS': 1105, 'CS_LFS_LINTFLAGS': 1003, 'CS_XBS5_ILP32_OFFBIG_CFLAGS': 1104, 'CS_XBS5_ILP32_OFF32_CFLAGS': 1100, 'CS_GNU_LIBPTHREAD_VERSION': 3, 'CS_XBS5_LPBIG_OFFBIG_LIBS': 1114, 'CS_LFS64_LIBS': 1006, 'CS_LFS_LIBS': 1002, 'CS_XBS5_LPBIG_OFFBIG_CFLAGS': 1112, 'CS_GNU_LIBC_VERSION': 2, 'CS_LFS64_LDFLAGS': 1005, 'CS_XBS5_ILP32_OFF32_LIBS': 1102, 'CS_XBS5_LP64_OFF64_LINTFLAGS': 1111, 'CS_XBS5_ILP32_OFF32_LINTFLAGS': 1103, 'CS_PATH': 0, 'CS_XBS5_ILP32_OFFBIG_LIBS': 1106, 'CS_XBS5_ILP32_OFF32_LDFLAGS': 1101, 'CS_LFS64_CFLAGS': 1004, 'CS_LFS_LDFLAGS': 1001, 'CS_XBS5_LP64_OFF64_LDFLAGS': 1109, 'CS_XBS5_ILP32_OFFBIG_LINTFLAGS': 1107, 'CS_XBS5_LPBIG_OFFBIG_LINTFLAGS': 1115, 'CS_XBS5_LPBIG_OFFBIG_LDFLAGS': 1113, 'CS_XBS5_LP64_OFF64_LIBS': 1110}
----------------------
+
+*************Need Args
 
 command: 	os.cpu_count
 ---------------------info
 Return the number of CPUs in the system; return None if indeterminable.
 ---------------------output
-<built-in function cpu_count>
----------------------
+
+*************Need Args
 
 command: 	os.ctermid
 ---------------------info
 Return the name of the controlling terminal for this process.
 ---------------------output
-<built-in function ctermid>
----------------------
+
+*************Need Args
 
 command: 	os.curdir
 ---------------------info
@@ -2374,7 +2374,6 @@ errors defaults to 'strict'.
 ---------------------output
 .
 ---------------------
-
 command: 	os.defpath
 ---------------------info
 str(object='') -> str
@@ -2390,7 +2389,6 @@ errors defaults to 'strict'.
 ---------------------output
 :/bin:/usr/bin
 ---------------------
-
 command: 	os.device_encoding
 ---------------------info
 Return a string describing the encoding of a terminal's file descriptor.
@@ -2398,8 +2396,8 @@ Return a string describing the encoding of a terminal's file descriptor.
 The file descriptor must be attached to a terminal.
 If the device is not a terminal, return None.
 ---------------------output
-<built-in function device_encoding>
----------------------
+
+*************Need Args
 
 command: 	os.devnull
 ---------------------info
@@ -2416,41 +2414,40 @@ errors defaults to 'strict'.
 ---------------------output
 /dev/null
 ---------------------
-
 command: 	os.dup
 ---------------------info
 Return a duplicate of a file descriptor.
 ---------------------output
-<built-in function dup>
----------------------
+
+*************Need Args
 
 command: 	os.dup2
 ---------------------info
 Duplicate file descriptor.
 ---------------------output
-<built-in function dup2>
----------------------
+
+*************Need Args
 
 command: 	os.environ
 ---------------------info
 None
 ---------------------output
-environ({'LOGNAME': 'shuihsui', 'TERM': 'xterm-256color', 'XDG_GREETER_DATA_DIR': '/var/lib/lightdm-data/shuihsui', 'QT_ACCESSIBILITY': '1', 'XDG_SESSION_PATH': '/org/freedesktop/DisplayManager/Session0', 'WINDOWID': '50331658', 'GTK_MODULES': 'gail:atk-bridge:unity-gtk-module', 'GTK_IM_MODULE': 'ibus', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'LC_PAPER': 'zh_CN.UTF-8', 'COMPIZ_CONFIG_PROFILE': 'ubuntu', 'LC_TELEPHONE': 'zh_CN.UTF-8', 'LC_NUMERIC': 'zh_CN.UTF-8', 'GNOME_KEYRING_PID': '', 'XDG_SESSION_DESKTOP': 'ubuntu', 'XDG_SESSION_TYPE': 'x11', 'LESSCLOSE': '/usr/bin/lesspipe %s %s', 'LC_ADDRESS': 'zh_CN.UTF-8', '_': '/usr/bin/python', 'GDMSESSION': 'ubuntu', 'GTK2_MODULES': 'overlay-scrollbar', 'XDG_CONFIG_DIRS': '/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg', 'MANDATORY_PATH': '/usr/share/gconf/ubuntu.mandatory.path', 'XAUTHORITY': '/home/shuihsui/.Xauthority', 'LC_IDENTIFICATION': 'zh_CN.UTF-8', 'XDG_RUNTIME_DIR': '/run/user/1000', 'XDG_SEAT_PATH': '/org/freedesktop/DisplayManager/Seat0', 'INSTANCE': '', 'XMODIFIERS': '@im=ibus', 'VTE_VERSION': '4205', 'QT_QPA_PLATFORMTHEME': 'appmenu-qt5', 'GPG_AGENT_INFO': '/home/shuihsui/.gnupg/S.gpg-agent:0:1', 'DEFAULTS_PATH': '/usr/share/gconf/ubuntu.default.path', 'HOME': '/home/shuihsui', 'QT_IM_MODULE': 'ibus', 'SSH_AUTH_SOCK': '/run/user/1000/keyring/ssh', 'DISPLAY': ':0', 'LANG': 'zh_CN.UTF-8', 'QT_LINUX_ACCESSIBILITY_ALWAYS_ON': '1', 'XDG_CURRENT_DESKTOP': 'Unity', 'SHELL': '/bin/bash', 'SESSIONTYPE': 'gnome-session', 'XDG_SEAT': 'seat0', 'PATH': '/home/shuihsui/bin:/home/shuihsui/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', 'XDG_DATA_DIRS': '/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', 'DBUS_SESSION_BUS_ADDRESS': 'unix:abstract=/tmp/dbus-YCJLZpUpS5', 'QT4_IM_MODULE': 'ibus', 'GNOME_KEYRING_CONTROL': '', 'LESSOPEN': '| /usr/bin/lesspipe %s', 'GDM_LANG': 'zh_CN', 'LANGUAGE': 'zh_CN:en', 'XDG_VTNR': '7', 'LC_TIME': 'zh_CN.UTF-8', 'LS_COLORS': 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', 'XDG_MENU_PREFIX': 'gnome-', 'DESKTOP_SESSION': 'ubuntu', 'SHLVL': '1', 'LC_MEASUREMENT': 'zh_CN.UTF-8', 'XDG_SESSION_ID': 'c2', 'USER': 'shuihsui', 'LC_MONETARY': 'zh_CN.UTF-8', 'OLDPWD': '/home/shuihsui/learngit/Hello-World/python_study', 'SESSION_MANAGER': 'local/ubuntu:@/tmp/.ICE-unix/1907,unix/ubuntu:/tmp/.ICE-unix/1907', 'IM_CONFIG_PHASE': '1', 'CLUTTER_IM_MODULE': 'ibus', 'LC_NAME': 'zh_CN.UTF-8', 'PWD': '/home/shuihsui/learngit/Hello-World/python_study/module_info', 'SESSION': 'ubuntu', 'PAPERSIZE': 'a4', 'JOB': 'dbus', 'UPSTART_SESSION': 'unix:abstract=/com/ubuntu/upstart-session/1000/1683'})
----------------------
+
+*************Need Args
 
 command: 	os.environb
 ---------------------info
 None
 ---------------------output
-environ({b'LOGNAME': b'shuihsui', b'TERM': b'xterm-256color', b'XDG_GREETER_DATA_DIR': b'/var/lib/lightdm-data/shuihsui', b'QT_ACCESSIBILITY': b'1', b'XDG_SESSION_PATH': b'/org/freedesktop/DisplayManager/Session0', b'WINDOWID': b'50331658', b'GTK_MODULES': b'gail:atk-bridge:unity-gtk-module', b'GTK_IM_MODULE': b'ibus', b'GNOME_DESKTOP_SESSION_ID': b'this-is-deprecated', b'LC_PAPER': b'zh_CN.UTF-8', b'COMPIZ_CONFIG_PROFILE': b'ubuntu', b'LC_TELEPHONE': b'zh_CN.UTF-8', b'LC_NUMERIC': b'zh_CN.UTF-8', b'GNOME_KEYRING_PID': b'', b'XDG_SESSION_DESKTOP': b'ubuntu', b'XDG_SESSION_TYPE': b'x11', b'LESSCLOSE': b'/usr/bin/lesspipe %s %s', b'LC_ADDRESS': b'zh_CN.UTF-8', b'_': b'/usr/bin/python', b'GDMSESSION': b'ubuntu', b'GTK2_MODULES': b'overlay-scrollbar', b'XDG_CONFIG_DIRS': b'/etc/xdg/xdg-ubuntu:/usr/share/upstart/xdg:/etc/xdg', b'MANDATORY_PATH': b'/usr/share/gconf/ubuntu.mandatory.path', b'XAUTHORITY': b'/home/shuihsui/.Xauthority', b'LC_IDENTIFICATION': b'zh_CN.UTF-8', b'XDG_RUNTIME_DIR': b'/run/user/1000', b'XDG_SEAT_PATH': b'/org/freedesktop/DisplayManager/Seat0', b'INSTANCE': b'', b'XMODIFIERS': b'@im=ibus', b'VTE_VERSION': b'4205', b'QT_QPA_PLATFORMTHEME': b'appmenu-qt5', b'GPG_AGENT_INFO': b'/home/shuihsui/.gnupg/S.gpg-agent:0:1', b'DEFAULTS_PATH': b'/usr/share/gconf/ubuntu.default.path', b'HOME': b'/home/shuihsui', b'QT_IM_MODULE': b'ibus', b'SSH_AUTH_SOCK': b'/run/user/1000/keyring/ssh', b'DISPLAY': b':0', b'LANG': b'zh_CN.UTF-8', b'QT_LINUX_ACCESSIBILITY_ALWAYS_ON': b'1', b'XDG_CURRENT_DESKTOP': b'Unity', b'SHELL': b'/bin/bash', b'SESSIONTYPE': b'gnome-session', b'XDG_SEAT': b'seat0', b'PATH': b'/home/shuihsui/bin:/home/shuihsui/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin', b'XDG_DATA_DIRS': b'/usr/share/ubuntu:/usr/share/gnome:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop', b'DBUS_SESSION_BUS_ADDRESS': b'unix:abstract=/tmp/dbus-YCJLZpUpS5', b'QT4_IM_MODULE': b'ibus', b'GNOME_KEYRING_CONTROL': b'', b'LESSOPEN': b'| /usr/bin/lesspipe %s', b'GDM_LANG': b'zh_CN', b'LANGUAGE': b'zh_CN:en', b'XDG_VTNR': b'7', b'LC_TIME': b'zh_CN.UTF-8', b'LS_COLORS': b'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.Z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.jpg=01;35:*.jpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:', b'XDG_MENU_PREFIX': b'gnome-', b'DESKTOP_SESSION': b'ubuntu', b'SHLVL': b'1', b'LC_MEASUREMENT': b'zh_CN.UTF-8', b'XDG_SESSION_ID': b'c2', b'USER': b'shuihsui', b'LC_MONETARY': b'zh_CN.UTF-8', b'OLDPWD': b'/home/shuihsui/learngit/Hello-World/python_study', b'SESSION_MANAGER': b'local/ubuntu:@/tmp/.ICE-unix/1907,unix/ubuntu:/tmp/.ICE-unix/1907', b'IM_CONFIG_PHASE': b'1', b'CLUTTER_IM_MODULE': b'ibus', b'LC_NAME': b'zh_CN.UTF-8', b'PWD': b'/home/shuihsui/learngit/Hello-World/python_study/module_info', b'SESSION': b'ubuntu', b'PAPERSIZE': b'a4', b'JOB': b'dbus', b'UPSTART_SESSION': b'unix:abstract=/com/ubuntu/upstart-session/1000/1683'})
----------------------
+
+*************Need Args
 
 command: 	os.error
 ---------------------info
 Base class for I/O related errors.
 ---------------------output
-<class 'OSError'>
----------------------
+
+*************Need Args
 
 command: 	os.execl
 ---------------------info
@@ -2459,8 +2456,8 @@ execl(file, *args)
     Execute the executable file with argument list args, replacing the
     current process. 
 ---------------------output
-<function execl at 0x7feed8094268>
----------------------
+
+*************Need Args
 
 command: 	os.execle
 ---------------------info
@@ -2469,8 +2466,8 @@ execle(file, *args, env)
     Execute the executable file with argument list args and
     environment env, replacing the current process. 
 ---------------------output
-<function execle at 0x7feed80942f0>
----------------------
+
+*************Need Args
 
 command: 	os.execlp
 ---------------------info
@@ -2479,8 +2476,8 @@ execlp(file, *args)
     Execute the executable file (which is searched for along $PATH)
     with argument list args, replacing the current process. 
 ---------------------output
-<function execlp at 0x7feed8094378>
----------------------
+
+*************Need Args
 
 command: 	os.execlpe
 ---------------------info
@@ -2490,8 +2487,8 @@ execlpe(file, *args, env)
     with argument list args and environment env, replacing the current
     process. 
 ---------------------output
-<function execlpe at 0x7feed8094400>
----------------------
+
+*************Need Args
 
 command: 	os.execv
 ---------------------info
@@ -2502,8 +2499,8 @@ Execute an executable path with arguments, replacing current process.
   argv
     Tuple or list of strings.
 ---------------------output
-<built-in function execv>
----------------------
+
+*************Need Args
 
 command: 	os.execve
 ---------------------info
@@ -2516,8 +2513,8 @@ Execute an executable path with arguments, replacing current process.
   env
     Dictionary of strings mapping to strings.
 ---------------------output
-<built-in function execve>
----------------------
+
+*************Need Args
 
 command: 	os.execvp
 ---------------------info
@@ -2527,8 +2524,8 @@ execvp(file, args)
     with argument list args, replacing the current process.
     args may be a list or tuple of strings. 
 ---------------------output
-<function execvp at 0x7feed8094488>
----------------------
+
+*************Need Args
 
 command: 	os.execvpe
 ---------------------info
@@ -2539,8 +2536,8 @@ execvpe(file, args, env)
     current process.
     args may be a list or tuple of strings. 
 ---------------------output
-<function execvpe at 0x7feed8094510>
----------------------
+
+*************Need Args
 
 command: 	os.extsep
 ---------------------info
@@ -2557,7 +2554,6 @@ errors defaults to 'strict'.
 ---------------------output
 .
 ---------------------
-
 command: 	os.fchdir
 ---------------------info
 Change to the directory of the given file descriptor.
@@ -2565,8 +2561,8 @@ Change to the directory of the given file descriptor.
 fd must be opened on a directory, not a file.
 Equivalent to os.chdir(fd).
 ---------------------output
-<built-in function fchdir>
----------------------
+
+*************Need Args
 
 command: 	os.fchmod
 ---------------------info
@@ -2574,8 +2570,8 @@ Change the access permissions of the file given by file descriptor fd.
 
 Equivalent to os.chmod(fd, mode).
 ---------------------output
-<built-in function fchmod>
----------------------
+
+*************Need Args
 
 command: 	os.fchown
 ---------------------info
@@ -2583,22 +2579,22 @@ Change the owner and group id of the file specified by file descriptor.
 
 Equivalent to os.chown(fd, uid, gid).
 ---------------------output
-<built-in function fchown>
----------------------
+
+*************Need Args
 
 command: 	os.fdatasync
 ---------------------info
 Force write of fd to disk without forcing update of metadata.
 ---------------------output
-<built-in function fdatasync>
----------------------
+
+*************Need Args
 
 command: 	os.fdopen
 ---------------------info
 None
 ---------------------output
-<function fdopen at 0x7feed80b5ea0>
----------------------
+
+*************Need Args
 
 command: 	os.fork
 ---------------------info
@@ -2606,8 +2602,8 @@ Fork a child process.
 
 Return 0 to child process and PID of child to parent process.
 ---------------------output
-<built-in function fork>
----------------------
+
+*************Need Args
 
 command: 	os.forkpty
 ---------------------info
@@ -2618,8 +2614,8 @@ Like fork(), return pid of 0 to the child process,
 and pid of child to the parent process.
 To both, return fd of newly opened pseudo-terminal.
 ---------------------output
-<built-in function forkpty>
----------------------
+
+*************Need Args
 
 command: 	os.fpathconf
 ---------------------info
@@ -2627,8 +2623,8 @@ Return the configuration limit name for the file descriptor fd.
 
 If there is no limit, return -1.
 ---------------------output
-<built-in function fpathconf>
----------------------
+
+*************Need Args
 
 command: 	os.fsdecode
 ---------------------info
@@ -2638,8 +2634,8 @@ command: 	os.fsdecode
         the file system encoding is 'mbcs' (which is the default encoding).
         
 ---------------------output
-<function _fscodec.<locals>.fsdecode at 0x7feed80b5950>
----------------------
+
+*************Need Args
 
 command: 	os.fsencode
 ---------------------info
@@ -2649,8 +2645,8 @@ command: 	os.fsencode
         the file system encoding is 'mbcs' (which is the default encoding).
         
 ---------------------output
-<function _fscodec.<locals>.fsencode at 0x7feed80b58c8>
----------------------
+
+*************Need Args
 
 command: 	os.fstat
 ---------------------info
@@ -2659,8 +2655,8 @@ Perform a stat system call on the given file descriptor.
 Like stat(), but for an open file descriptor.
 Equivalent to os.stat(fd).
 ---------------------output
-<built-in function fstat>
----------------------
+
+*************Need Args
 
 command: 	os.fstatvfs
 ---------------------info
@@ -2668,22 +2664,22 @@ Perform an fstatvfs system call on the given fd.
 
 Equivalent to statvfs(fd).
 ---------------------output
-<built-in function fstatvfs>
----------------------
+
+*************Need Args
 
 command: 	os.fsync
 ---------------------info
 Force write of fd to disk.
 ---------------------output
-<built-in function fsync>
----------------------
+
+*************Need Args
 
 command: 	os.ftruncate
 ---------------------info
 Truncate a file, specified by file descriptor, to a specific length.
 ---------------------output
-<built-in function ftruncate>
----------------------
+
+*************Need Args
 
 command: 	os.fwalk
 ---------------------info
@@ -2720,8 +2716,8 @@ Directory tree generator.
                 dirs.remove('CVS')  # don't visit CVS directories
         
 ---------------------output
-<function fwalk at 0x7feed8094158>
----------------------
+
+*************Need Args
 
 command: 	os.get_blocking
 ---------------------info
@@ -2730,8 +2726,8 @@ get_blocking(fd) -> bool
 Get the blocking mode of the file descriptor:
 False if the O_NONBLOCK flag is set, True if the flag is cleared.
 ---------------------output
-<built-in function get_blocking>
----------------------
+
+*************Need Args
 
 command: 	os.get_exec_path
 ---------------------info
@@ -2742,15 +2738,15 @@ Returns the sequence of directories that will be searched for the
     os.environ will be used.
     
 ---------------------output
-<function get_exec_path at 0x7feed8094620>
----------------------
+
+*************Need Args
 
 command: 	os.get_inheritable
 ---------------------info
 Get the close-on-exe flag of the specified file descriptor.
 ---------------------output
-<built-in function get_inheritable>
----------------------
+
+*************Need Args
 
 command: 	os.get_terminal_size
 ---------------------info
@@ -2768,29 +2764,29 @@ available for this system.
 shutil.get_terminal_size is the high-level function which should 
 normally be used, os.get_terminal_size is the low-level implementation.
 ---------------------output
-<built-in function get_terminal_size>
----------------------
+
+*************Need Args
 
 command: 	os.getcwd
 ---------------------info
 Return a unicode string representing the current working directory.
 ---------------------output
-<built-in function getcwd>
----------------------
+
+*************Need Args
 
 command: 	os.getcwdb
 ---------------------info
 Return a bytes string representing the current working directory.
 ---------------------output
-<built-in function getcwdb>
----------------------
+
+*************Need Args
 
 command: 	os.getegid
 ---------------------info
 Return the current process's effective group id.
 ---------------------output
-<built-in function getegid>
----------------------
+
+*************Need Args
 
 command: 	os.getenv
 ---------------------info
@@ -2798,8 +2794,8 @@ Get an environment variable, return None if it doesn't exist.
     The optional second argument can specify an alternate default.
     key, default and the result are str.
 ---------------------output
-<function getenv at 0x7feed80946a8>
----------------------
+
+*************Need Args
 
 command: 	os.getenvb
 ---------------------info
@@ -2807,22 +2803,22 @@ Get an environment variable, return None if it doesn't exist.
         The optional second argument can specify an alternate default.
         key, default and the result are bytes.
 ---------------------output
-<function getenvb at 0x7feed80b57b8>
----------------------
+
+*************Need Args
 
 command: 	os.geteuid
 ---------------------info
 Return the current process's effective user id.
 ---------------------output
-<built-in function geteuid>
----------------------
+
+*************Need Args
 
 command: 	os.getgid
 ---------------------info
 Return the current process's group id.
 ---------------------output
-<built-in function getgid>
----------------------
+
+*************Need Args
 
 command: 	os.getgrouplist
 ---------------------info
@@ -2833,15 +2829,15 @@ Returns a list of groups to which a user belongs.
     user: username to lookup
     group: base group id of the user
 ---------------------output
-<built-in function getgrouplist>
----------------------
+
+*************Need Args
 
 command: 	os.getgroups
 ---------------------info
 Return list of supplemental group IDs for the process.
 ---------------------output
-<built-in function getgroups>
----------------------
+
+*************Need Args
 
 command: 	os.getloadavg
 ---------------------info
@@ -2851,36 +2847,36 @@ Return the number of processes in the system run queue averaged over
 the last 1, 5, and 15 minutes as a tuple of three floats.
 Raises OSError if the load average was unobtainable.
 ---------------------output
-<built-in function getloadavg>
----------------------
+
+*************Need Args
 
 command: 	os.getlogin
 ---------------------info
 Return the actual login name.
 ---------------------output
-<built-in function getlogin>
----------------------
+
+*************Need Args
 
 command: 	os.getpgid
 ---------------------info
 Call the system call getpgid(), and return the result.
 ---------------------output
-<built-in function getpgid>
----------------------
+
+*************Need Args
 
 command: 	os.getpgrp
 ---------------------info
 Return the current process group id.
 ---------------------output
-<built-in function getpgrp>
----------------------
+
+*************Need Args
 
 command: 	os.getpid
 ---------------------info
 Return the current process id.
 ---------------------output
-<built-in function getpid>
----------------------
+
+*************Need Args
 
 command: 	os.getppid
 ---------------------info
@@ -2889,43 +2885,43 @@ Return the parent's process id.
 If the parent process has already exited, Windows machines will still
 return its id; others systems will return the id of the 'init' process (1).
 ---------------------output
-<built-in function getppid>
----------------------
+
+*************Need Args
 
 command: 	os.getpriority
 ---------------------info
 Return program scheduling priority.
 ---------------------output
-<built-in function getpriority>
----------------------
+
+*************Need Args
 
 command: 	os.getresgid
 ---------------------info
 Return a tuple of the current process's real, effective, and saved group ids.
 ---------------------output
-<built-in function getresgid>
----------------------
+
+*************Need Args
 
 command: 	os.getresuid
 ---------------------info
 Return a tuple of the current process's real, effective, and saved user ids.
 ---------------------output
-<built-in function getresuid>
----------------------
+
+*************Need Args
 
 command: 	os.getsid
 ---------------------info
 Call the system call getsid(pid) and return the result.
 ---------------------output
-<built-in function getsid>
----------------------
+
+*************Need Args
 
 command: 	os.getuid
 ---------------------info
 Return the current process's user id.
 ---------------------output
-<built-in function getuid>
----------------------
+
+*************Need Args
 
 command: 	os.getxattr
 ---------------------info
@@ -2936,8 +2932,8 @@ If follow_symlinks is False, and the last element of the path is a symbolic
   link, getxattr will examine the symbolic link itself instead of the file
   the link points to.
 ---------------------output
-<built-in function getxattr>
----------------------
+
+*************Need Args
 
 command: 	os.initgroups
 ---------------------info
@@ -2947,8 +2943,8 @@ Call the system initgroups() to initialize the group access list with all of
 the groups of which the specified username is a member, plus the specified
 group id.
 ---------------------output
-<built-in function initgroups>
----------------------
+
+*************Need Args
 
 command: 	os.isatty
 ---------------------info
@@ -2957,22 +2953,22 @@ Return True if the fd is connected to a terminal.
 Return True if the file descriptor is an open file descriptor
 connected to the slave end of a terminal.
 ---------------------output
-<built-in function isatty>
----------------------
+
+*************Need Args
 
 command: 	os.kill
 ---------------------info
 Kill a process with a signal.
 ---------------------output
-<built-in function kill>
----------------------
+
+*************Need Args
 
 command: 	os.killpg
 ---------------------info
 Kill a process group with a signal.
 ---------------------output
-<built-in function killpg>
----------------------
+
+*************Need Args
 
 command: 	os.lchown
 ---------------------info
@@ -2981,8 +2977,8 @@ Change the owner and group id of path to the numeric uid and gid.
 This function will not follow symbolic links.
 Equivalent to os.chown(path, uid, gid, follow_symlinks=False).
 ---------------------output
-<built-in function lchown>
----------------------
+
+*************Need Args
 
 command: 	os.linesep
 ---------------------info
@@ -3000,7 +2996,6 @@ errors defaults to 'strict'.
 
 
 ---------------------
-
 command: 	os.link
 ---------------------info
 Create a hard link to a file.
@@ -3015,8 +3010,8 @@ src_dir_fd, dst_dir_fd, and follow_symlinks may not be implemented on your
   platform.  If they are unavailable, using them will raise a
   NotImplementedError.
 ---------------------output
-<built-in function link>
----------------------
+
+*************Need Args
 
 command: 	os.listdir
 ---------------------info
@@ -3033,8 +3028,8 @@ On some platforms, path may also be specified as an open file descriptor;\
 The list is in arbitrary order.  It does not include the special
 entries '.' and '..' even if they are present in the directory.
 ---------------------output
-<built-in function listdir>
----------------------
+
+*************Need Args
 
 command: 	os.listxattr
 ---------------------info
@@ -3046,8 +3041,8 @@ If follow_symlinks is False, and the last element of the path is a symbolic
   link, listxattr will examine the symbolic link itself instead of the file
   the link points to.
 ---------------------output
-<built-in function listxattr>
----------------------
+
+*************Need Args
 
 command: 	os.lockf
 ---------------------info
@@ -3060,8 +3055,8 @@ Apply, test or remove a POSIX lock on an open file descriptor.
   length
     The number of bytes to lock, starting at the current position.
 ---------------------output
-<built-in function lockf>
----------------------
+
+*************Need Args
 
 command: 	os.lseek
 ---------------------info
@@ -3070,8 +3065,8 @@ Set the position of a file descriptor.  Return the new position.
 Return the new cursor position in number of bytes
 relative to the beginning of the file.
 ---------------------output
-<built-in function lseek>
----------------------
+
+*************Need Args
 
 command: 	os.lstat
 ---------------------info
@@ -3080,22 +3075,22 @@ Perform a stat system call on the given path, without following symbolic links.
 Like stat(), but do not follow symbolic links.
 Equivalent to stat(path, follow_symlinks=False).
 ---------------------output
-<built-in function lstat>
----------------------
+
+*************Need Args
 
 command: 	os.major
 ---------------------info
 Extracts a device major number from a raw device number.
 ---------------------output
-<built-in function major>
----------------------
+
+*************Need Args
 
 command: 	os.makedev
 ---------------------info
 Composes a raw device number from the major and minor device numbers.
 ---------------------output
-<built-in function makedev>
----------------------
+
+*************Need Args
 
 command: 	os.makedirs
 ---------------------info
@@ -3109,15 +3104,15 @@ makedirs(name [, mode=0o777][, exist_ok=False])
 
     
 ---------------------output
-<function makedirs at 0x7feed80e9ae8>
----------------------
+
+*************Need Args
 
 command: 	os.minor
 ---------------------info
 Extracts a device minor number from a raw device number.
 ---------------------output
-<built-in function minor>
----------------------
+
+*************Need Args
 
 command: 	os.mkdir
 ---------------------info
@@ -3130,8 +3125,8 @@ dir_fd may not be implemented on your platform.
 
 The mode argument is ignored on Windows.
 ---------------------output
-<built-in function mkdir>
----------------------
+
+*************Need Args
 
 command: 	os.mkfifo
 ---------------------info
@@ -3142,8 +3137,8 @@ If dir_fd is not None, it should be a file descriptor open to a directory,
 dir_fd may not be implemented on your platform.
   If it is unavailable, using it will raise a NotImplementedError.
 ---------------------output
-<built-in function mkfifo>
----------------------
+
+*************Need Args
 
 command: 	os.mknod
 ---------------------info
@@ -3161,8 +3156,8 @@ If dir_fd is not None, it should be a file descriptor open to a directory,
 dir_fd may not be implemented on your platform.
   If it is unavailable, using it will raise a NotImplementedError.
 ---------------------output
-<built-in function mknod>
----------------------
+
+*************Need Args
 
 command: 	os.name
 ---------------------info
@@ -3179,13 +3174,12 @@ errors defaults to 'strict'.
 ---------------------output
 posix
 ---------------------
-
 command: 	os.nice
 ---------------------info
 Add increment to the priority of process and return the new priority.
 ---------------------output
-<built-in function nice>
----------------------
+
+*************Need Args
 
 command: 	os.open
 ---------------------info
@@ -3196,8 +3190,8 @@ If dir_fd is not None, it should be a file descriptor open to a directory,
 dir_fd may not be implemented on your platform.
   If it is unavailable, using it will raise a NotImplementedError.
 ---------------------output
-<built-in function open>
----------------------
+
+*************Need Args
 
 command: 	os.openpty
 ---------------------info
@@ -3206,8 +3200,8 @@ Open a pseudo-terminal.
 Return a tuple of (master_fd, slave_fd) containing open file descriptors
 for both the master and slave ends.
 ---------------------output
-<built-in function openpty>
----------------------
+
+*************Need Args
 
 command: 	os.pardir
 ---------------------info
@@ -3224,7 +3218,6 @@ errors defaults to 'strict'.
 ---------------------output
 ..
 ---------------------
-
 command: 	os.path
 ---------------------info
 Common operations on Posix pathnames.
@@ -3239,8 +3232,8 @@ Some of this can actually be useful on non-Posix systems too, e.g.
 for manipulation of the pathname component of URLs.
 
 ---------------------output
-<module 'posixpath' from '/usr/lib/python3.5/posixpath.py'>
----------------------
+
+*************Need Args
 
 command: 	os.pathconf
 ---------------------info
@@ -3250,8 +3243,8 @@ If there is no limit, return -1.
 On some platforms, path may also be specified as an open file descriptor.
   If this functionality is unavailable, using it raises an exception.
 ---------------------output
-<built-in function pathconf>
----------------------
+
+*************Need Args
 
 command: 	os.pathconf_names
 ---------------------info
@@ -3265,8 +3258,8 @@ dict(iterable) -> new dictionary initialized as if via:
 dict(**kwargs) -> new dictionary initialized with the name=value pairs
     in the keyword argument list.  For example:  dict(one=1, two=2)
 ---------------------output
-{'PC_ALLOC_SIZE_MIN': 18, 'PC_LINK_MAX': 0, 'PC_NO_TRUNC': 7, 'PC_SYMLINK_MAX': 19, 'PC_FILESIZEBITS': 13, 'PC_ASYNC_IO': 10, 'PC_MAX_INPUT': 2, 'PC_REC_INCR_XFER_SIZE': 14, 'PC_REC_XFER_ALIGN': 17, 'PC_MAX_CANON': 1, 'PC_NAME_MAX': 3, 'PC_REC_MIN_XFER_SIZE': 16, 'PC_PIPE_BUF': 5, 'PC_SOCK_MAXBUF': 12, 'PC_REC_MAX_XFER_SIZE': 15, 'PC_VDISABLE': 8, 'PC_PATH_MAX': 4, 'PC_PRIO_IO': 11, 'PC_SYNC_IO': 9, 'PC_CHOWN_RESTRICTED': 6}
----------------------
+
+*************Need Args
 
 command: 	os.pathsep
 ---------------------info
@@ -3283,7 +3276,6 @@ errors defaults to 'strict'.
 ---------------------output
 :
 ---------------------
-
 command: 	os.pipe
 ---------------------info
 Create a pipe.
@@ -3291,8 +3283,8 @@ Create a pipe.
 Returns a tuple of two file descriptors:
   (read_fd, write_fd)
 ---------------------output
-<built-in function pipe>
----------------------
+
+*************Need Args
 
 command: 	os.pipe2
 ---------------------info
@@ -3304,15 +3296,15 @@ Returns a tuple of two file descriptors:
 flags can be constructed by ORing together one or more of these values:
 O_NONBLOCK, O_CLOEXEC.
 ---------------------output
-<built-in function pipe2>
----------------------
+
+*************Need Args
 
 command: 	os.popen
 ---------------------info
 None
 ---------------------output
-<function popen at 0x7feed80b5e18>
----------------------
+
+*************Need Args
 
 command: 	os.posix_fadvise
 ---------------------info
@@ -3326,8 +3318,8 @@ advice is one of POSIX_FADV_NORMAL, POSIX_FADV_SEQUENTIAL,
 POSIX_FADV_RANDOM, POSIX_FADV_NOREUSE, POSIX_FADV_WILLNEED, or
 POSIX_FADV_DONTNEED.
 ---------------------output
-<built-in function posix_fadvise>
----------------------
+
+*************Need Args
 
 command: 	os.posix_fallocate
 ---------------------info
@@ -3336,8 +3328,8 @@ Ensure a file has allocated at least a particular number of bytes on disk.
 Ensure that the file specified by fd encompasses a range of bytes
 starting at offset bytes from the beginning and continuing for length bytes.
 ---------------------output
-<built-in function posix_fallocate>
----------------------
+
+*************Need Args
 
 command: 	os.pread
 ---------------------info
@@ -3346,15 +3338,15 @@ Read a number of bytes from a file descriptor starting at a particular offset.
 Read length bytes from file descriptor fd, starting at offset bytes from
 the beginning of the file.  The file offset remains unchanged.
 ---------------------output
-<built-in function pread>
----------------------
+
+*************Need Args
 
 command: 	os.putenv
 ---------------------info
 Change or add an environment variable.
 ---------------------output
-<built-in function putenv>
----------------------
+
+*************Need Args
 
 command: 	os.pwrite
 ---------------------info
@@ -3364,15 +3356,15 @@ Write buffer to fd, starting at offset bytes from the beginning of
 the file.  Returns the number of bytes writte.  Does not change the
 current file offset.
 ---------------------output
-<built-in function pwrite>
----------------------
+
+*************Need Args
 
 command: 	os.read
 ---------------------info
 Read from a file descriptor.  Returns a bytes object.
 ---------------------output
-<built-in function read>
----------------------
+
+*************Need Args
 
 command: 	os.readlink
 ---------------------info
@@ -3385,8 +3377,8 @@ If dir_fd is not None, it should be a file descriptor open to a directory,
 dir_fd may not be implemented on your platform.
   If it is unavailable, using it will raise a NotImplementedError.
 ---------------------output
-<built-in function readlink>
----------------------
+
+*************Need Args
 
 command: 	os.readv
 ---------------------info
@@ -3400,8 +3392,8 @@ the rest of the data.
 readv returns the total number of bytes read,
 which may be less than the total capacity of all the buffers.
 ---------------------output
-<built-in function readv>
----------------------
+
+*************Need Args
 
 command: 	os.remove
 ---------------------info
@@ -3412,8 +3404,8 @@ If dir_fd is not None, it should be a file descriptor open to a directory,
 dir_fd may not be implemented on your platform.
   If it is unavailable, using it will raise a NotImplementedError.
 ---------------------output
-<built-in function remove>
----------------------
+
+*************Need Args
 
 command: 	os.removedirs
 ---------------------info
@@ -3428,8 +3420,8 @@ removedirs(name)
 
     
 ---------------------output
-<function removedirs at 0x7feed8092c80>
----------------------
+
+*************Need Args
 
 command: 	os.removexattr
 ---------------------info
@@ -3440,8 +3432,8 @@ If follow_symlinks is False, and the last element of the path is a symbolic
   link, removexattr will modify the symbolic link itself instead of the file
   the link points to.
 ---------------------output
-<built-in function removexattr>
----------------------
+
+*************Need Args
 
 command: 	os.rename
 ---------------------info
@@ -3453,8 +3445,8 @@ If either src_dir_fd or dst_dir_fd is not None, it should be a file
 src_dir_fd and dst_dir_fd, may not be implemented on your platform.
   If they are unavailable, using them will raise a NotImplementedError.
 ---------------------output
-<built-in function rename>
----------------------
+
+*************Need Args
 
 command: 	os.renames
 ---------------------info
@@ -3473,8 +3465,8 @@ renames(old, new)
 
     
 ---------------------output
-<function renames at 0x7feed8092d08>
----------------------
+
+*************Need Args
 
 command: 	os.replace
 ---------------------info
@@ -3486,8 +3478,8 @@ If either src_dir_fd or dst_dir_fd is not None, it should be a file
 src_dir_fd and dst_dir_fd, may not be implemented on your platform.
   If they are unavailable, using them will raise a NotImplementedError."
 ---------------------output
-<built-in function replace>
----------------------
+
+*************Need Args
 
 command: 	os.rmdir
 ---------------------info
@@ -3498,29 +3490,29 @@ If dir_fd is not None, it should be a file descriptor open to a directory,
 dir_fd may not be implemented on your platform.
   If it is unavailable, using it will raise a NotImplementedError.
 ---------------------output
-<built-in function rmdir>
----------------------
+
+*************Need Args
 
 command: 	os.scandir
 ---------------------info
 scandir(path='.') -> iterator of DirEntry objects for given path
 ---------------------output
-<built-in function scandir>
----------------------
+
+*************Need Args
 
 command: 	os.sched_get_priority_max
 ---------------------info
 Get the maximum scheduling priority for policy.
 ---------------------output
-<built-in function sched_get_priority_max>
----------------------
+
+*************Need Args
 
 command: 	os.sched_get_priority_min
 ---------------------info
 Get the minimum scheduling priority for policy.
 ---------------------output
-<built-in function sched_get_priority_min>
----------------------
+
+*************Need Args
 
 command: 	os.sched_getaffinity
 ---------------------info
@@ -3528,8 +3520,8 @@ Return the affinity of the process identified by pid.
 
 The affinity is returned as a set of CPU identifiers.
 ---------------------output
-<built-in function sched_getaffinity>
----------------------
+
+*************Need Args
 
 command: 	os.sched_getparam
 ---------------------info
@@ -3538,8 +3530,8 @@ Returns scheduling parameters for the process identified by pid.
 If pid is 0, returns parameters for the calling process.
 Return value is an instance of sched_param.
 ---------------------output
-<built-in function sched_getparam>
----------------------
+
+*************Need Args
 
 command: 	os.sched_getscheduler
 ---------------------info
@@ -3547,8 +3539,8 @@ Get the scheduling policy for the process identifiedy by pid.
 
 Passing 0 for pid returns the scheduling policy for the calling process.
 ---------------------output
-<built-in function sched_getscheduler>
----------------------
+
+*************Need Args
 
 command: 	os.sched_param
 ---------------------info
@@ -3557,8 +3549,8 @@ Current has only one field: sched_priority");
   sched_priority
     A scheduling parameter.
 ---------------------output
-<class 'posix.sched_param'>
----------------------
+
+*************Need Args
 
 command: 	os.sched_rr_get_interval
 ---------------------info
@@ -3566,8 +3558,8 @@ Return the round-robin quantum for the process identified by pid, in seconds.
 
 Value returned is a float.
 ---------------------output
-<built-in function sched_rr_get_interval>
----------------------
+
+*************Need Args
 
 command: 	os.sched_setaffinity
 ---------------------info
@@ -3575,8 +3567,8 @@ Set the CPU affinity of the process identified by pid to mask.
 
 mask should be an iterable of integers identifying CPUs.
 ---------------------output
-<built-in function sched_setaffinity>
----------------------
+
+*************Need Args
 
 command: 	os.sched_setparam
 ---------------------info
@@ -3585,8 +3577,8 @@ Set scheduling parameters for the process identified by pid.
 If pid is 0, sets parameters for the calling process.
 param should be an instance of sched_param.
 ---------------------output
-<built-in function sched_setparam>
----------------------
+
+*************Need Args
 
 command: 	os.sched_setscheduler
 ---------------------info
@@ -3595,15 +3587,15 @@ Set the scheduling policy for the process identified by pid.
 If pid is 0, the calling process is changed.
 param is an instance of sched_param.
 ---------------------output
-<built-in function sched_setscheduler>
----------------------
+
+*************Need Args
 
 command: 	os.sched_yield
 ---------------------info
 Voluntarily relinquish the CPU.
 ---------------------output
-<built-in function sched_yield>
----------------------
+
+*************Need Args
 
 command: 	os.sendfile
 ---------------------info
@@ -3612,8 +3604,8 @@ sendfile(out, in, offset, count[, headers][, trailers], flags=0)
             -> byteswritten
 Copy count bytes from file descriptor in to file descriptor out.
 ---------------------output
-<built-in function sendfile>
----------------------
+
+*************Need Args
 
 command: 	os.sep
 ---------------------info
@@ -3630,7 +3622,6 @@ errors defaults to 'strict'.
 ---------------------output
 /
 ---------------------
-
 command: 	os.set_blocking
 ---------------------info
 set_blocking(fd, blocking)
@@ -3639,106 +3630,106 @@ Set the blocking mode of the specified file descriptor.
 Set the O_NONBLOCK flag if blocking is False,
 clear the O_NONBLOCK flag otherwise.
 ---------------------output
-<built-in function set_blocking>
----------------------
+
+*************Need Args
 
 command: 	os.set_inheritable
 ---------------------info
 Set the inheritable flag of the specified file descriptor.
 ---------------------output
-<built-in function set_inheritable>
----------------------
+
+*************Need Args
 
 command: 	os.setegid
 ---------------------info
 Set the current process's effective group id.
 ---------------------output
-<built-in function setegid>
----------------------
+
+*************Need Args
 
 command: 	os.seteuid
 ---------------------info
 Set the current process's effective user id.
 ---------------------output
-<built-in function seteuid>
----------------------
+
+*************Need Args
 
 command: 	os.setgid
 ---------------------info
 Set the current process's group id.
 ---------------------output
-<built-in function setgid>
----------------------
+
+*************Need Args
 
 command: 	os.setgroups
 ---------------------info
 Set the groups of the current process to list.
 ---------------------output
-<built-in function setgroups>
----------------------
+
+*************Need Args
 
 command: 	os.setpgid
 ---------------------info
 Call the system call setpgid(pid, pgrp).
 ---------------------output
-<built-in function setpgid>
----------------------
+
+*************Need Args
 
 command: 	os.setpgrp
 ---------------------info
 Make the current process the leader of its process group.
 ---------------------output
-<built-in function setpgrp>
----------------------
+
+*************Need Args
 
 command: 	os.setpriority
 ---------------------info
 Set program scheduling priority.
 ---------------------output
-<built-in function setpriority>
----------------------
+
+*************Need Args
 
 command: 	os.setregid
 ---------------------info
 Set the current process's real and effective group ids.
 ---------------------output
-<built-in function setregid>
----------------------
+
+*************Need Args
 
 command: 	os.setresgid
 ---------------------info
 Set the current process's real, effective, and saved group ids.
 ---------------------output
-<built-in function setresgid>
----------------------
+
+*************Need Args
 
 command: 	os.setresuid
 ---------------------info
 Set the current process's real, effective, and saved user ids.
 ---------------------output
-<built-in function setresuid>
----------------------
+
+*************Need Args
 
 command: 	os.setreuid
 ---------------------info
 Set the current process's real and effective user ids.
 ---------------------output
-<built-in function setreuid>
----------------------
+
+*************Need Args
 
 command: 	os.setsid
 ---------------------info
 Call the system call setsid().
 ---------------------output
-<built-in function setsid>
----------------------
+
+*************Need Args
 
 command: 	os.setuid
 ---------------------info
 Set the current process's user id.
 ---------------------output
-<built-in function setuid>
----------------------
+
+*************Need Args
 
 command: 	os.setxattr
 ---------------------info
@@ -3749,8 +3740,8 @@ If follow_symlinks is False, and the last element of the path is a symbolic
   link, setxattr will modify the symbolic link itself instead of the file
   the link points to.
 ---------------------output
-<built-in function setxattr>
----------------------
+
+*************Need Args
 
 command: 	os.spawnl
 ---------------------info
@@ -3761,8 +3752,8 @@ If mode == P_NOWAIT return the pid of the process.
 If mode == P_WAIT return the process's exit code if it exits normally;
 otherwise return -SIG, where SIG is the signal that killed it. 
 ---------------------output
-<function spawnl at 0x7feed80b5bf8>
----------------------
+
+*************Need Args
 
 command: 	os.spawnle
 ---------------------info
@@ -3774,8 +3765,8 @@ If mode == P_NOWAIT return the pid of the process.
 If mode == P_WAIT return the process's exit code if it exits normally;
 otherwise return -SIG, where SIG is the signal that killed it. 
 ---------------------output
-<function spawnle at 0x7feed80b5c80>
----------------------
+
+*************Need Args
 
 command: 	os.spawnlp
 ---------------------info
@@ -3787,8 +3778,8 @@ If mode == P_NOWAIT return the pid of the process.
 If mode == P_WAIT return the process's exit code if it exits normally;
 otherwise return -SIG, where SIG is the signal that killed it. 
 ---------------------output
-<function spawnlp at 0x7feed80b5d08>
----------------------
+
+*************Need Args
 
 command: 	os.spawnlpe
 ---------------------info
@@ -3800,8 +3791,8 @@ If mode == P_NOWAIT return the pid of the process.
 If mode == P_WAIT return the process's exit code if it exits normally;
 otherwise return -SIG, where SIG is the signal that killed it. 
 ---------------------output
-<function spawnlpe at 0x7feed80b5d90>
----------------------
+
+*************Need Args
 
 command: 	os.spawnv
 ---------------------info
@@ -3812,8 +3803,8 @@ If mode == P_NOWAIT return the pid of the process.
 If mode == P_WAIT return the process's exit code if it exits normally;
 otherwise return -SIG, where SIG is the signal that killed it. 
 ---------------------output
-<function spawnv at 0x7feed80b59d8>
----------------------
+
+*************Need Args
 
 command: 	os.spawnve
 ---------------------info
@@ -3825,8 +3816,8 @@ If mode == P_NOWAIT return the pid of the process.
 If mode == P_WAIT return the process's exit code if it exits normally;
 otherwise return -SIG, where SIG is the signal that killed it. 
 ---------------------output
-<function spawnve at 0x7feed80b5a60>
----------------------
+
+*************Need Args
 
 command: 	os.spawnvp
 ---------------------info
@@ -3838,8 +3829,8 @@ If mode == P_NOWAIT return the pid of the process.
 If mode == P_WAIT return the process's exit code if it exits normally;
 otherwise return -SIG, where SIG is the signal that killed it. 
 ---------------------output
-<function spawnvp at 0x7feed80b5ae8>
----------------------
+
+*************Need Args
 
 command: 	os.spawnvpe
 ---------------------info
@@ -3851,8 +3842,8 @@ If mode == P_NOWAIT return the pid of the process.
 If mode == P_WAIT return the process's exit code if it exits normally;
 otherwise return -SIG, where SIG is the signal that killed it. 
 ---------------------output
-<function spawnvpe at 0x7feed80b5b70>
----------------------
+
+*************Need Args
 
 command: 	os.stat
 ---------------------info
@@ -3876,8 +3867,8 @@ dir_fd and follow_symlinks may not be implemented
 It's an error to use dir_fd or follow_symlinks when specifying path as
   an open file descriptor.
 ---------------------output
-<built-in function stat>
----------------------
+
+*************Need Args
 
 command: 	os.stat_float_times
 ---------------------info
@@ -3890,8 +3881,8 @@ future calls return ints.
 If value is omitted, return the current setting.
 
 ---------------------output
-<built-in function stat_float_times>
----------------------
+
+*************Need Args
 
 command: 	os.stat_result
 ---------------------info
@@ -3906,8 +3897,8 @@ or st_flags, they are available as attributes only.
 
 See os.stat for more information.
 ---------------------output
-<class 'os.stat_result'>
----------------------
+
+*************Need Args
 
 command: 	os.statvfs
 ---------------------info
@@ -3917,8 +3908,8 @@ path may always be specified as a string.
 On some platforms, path may also be specified as an open file descriptor.
   If this functionality is unavailable, using it raises an exception.
 ---------------------output
-<built-in function statvfs>
----------------------
+
+*************Need Args
 
 command: 	os.statvfs_result
 ---------------------info
@@ -3930,15 +3921,15 @@ or via the attributes f_bsize, f_frsize, f_blocks, f_bfree, and so on.
 
 See os.statvfs for more information.
 ---------------------output
-<class 'os.statvfs_result'>
----------------------
+
+*************Need Args
 
 command: 	os.strerror
 ---------------------info
 Translate an error code to a message string.
 ---------------------output
-<built-in function strerror>
----------------------
+
+*************Need Args
 
 command: 	os.supports_bytes_environ
 ---------------------info
@@ -3948,8 +3939,8 @@ Returns True when the argument x is true, False otherwise.
 The builtins True and False are the only two instances of the class bool.
 The class bool is a subclass of the class int, and cannot be subclassed.
 ---------------------output
-True
----------------------
+
+*************Need Args
 
 command: 	os.symlink
 ---------------------info
@@ -3965,22 +3956,22 @@ If dir_fd is not None, it should be a file descriptor open to a directory,
 dir_fd may not be implemented on your platform.
   If it is unavailable, using it will raise a NotImplementedError.
 ---------------------output
-<built-in function symlink>
----------------------
+
+*************Need Args
 
 command: 	os.sync
 ---------------------info
 Force write of everything to disk.
 ---------------------output
-<built-in function sync>
----------------------
+
+*************Need Args
 
 command: 	os.sysconf
 ---------------------info
 Return an integer-valued system configuration variable.
 ---------------------output
-<built-in function sysconf>
----------------------
+
+*************Need Args
 
 command: 	os.sysconf_names
 ---------------------info
@@ -3994,36 +3985,36 @@ dict(iterable) -> new dictionary initialized as if via:
 dict(**kwargs) -> new dictionary initialized with the name=value pairs
     in the keyword argument list.  For example:  dict(one=1, two=2)
 ---------------------output
-{'SC_SELECT': 59, 'SC_NL_MSGMAX': 121, 'SC_AIO_LISTIO_MAX': 23, 'SC_2_C_VERSION': 96, 'SC_CLK_TCK': 2, 'SC_VERSION': 29, 'SC_SAVED_IDS': 8, 'SC_MQ_OPEN_MAX': 27, 'SC_CHARCLASS_NAME_MAX': 45, 'SC_INT_MAX': 104, 'SC_XOPEN_ENH_I18N': 93, 'SC_PII_INTERNET_DGRAM': 62, 'SC_THREAD_ATTR_STACKADDR': 77, 'SC_TZNAME_MAX': 6, 'SC_SHRT_MIN': 114, 'SC_PRIORITY_SCHEDULING': 10, 'SC_EXPR_NEST_MAX': 42, 'SC_XOPEN_XCU_VERSION': 90, 'SC_SSIZE_MAX': 110, 'SC_MESSAGE_PASSING': 20, 'SC_PII_OSI_COTS': 63, 'SC_XOPEN_XPG4': 100, 'SC_BC_DIM_MAX': 37, 'SC_XOPEN_REALTIME_THREADS': 131, 'SC_NL_SETMAX': 123, 'SC_NGROUPS_MAX': 3, 'SC_DELAYTIMER_MAX': 26, 'SC_XOPEN_UNIX': 91, 'SC_MQ_PRIO_MAX': 28, 'SC_REALTIME_SIGNALS': 9, 'SC_SYNCHRONIZED_IO': 14, 'SC_SEM_NSEMS_MAX': 32, 'SC_NL_TEXTMAX': 124, 'SC_PAGE_SIZE': 30, 'SC_PII_OSI': 57, 'SC_JOB_CONTROL': 7, 'SC_XOPEN_VERSION': 89, 'SC_SEMAPHORES': 21, 'SC_2_UPE': 97, 'SC_SCHAR_MIN': 112, 'SC_PHYS_PAGES': 85, 'SC_UINT_MAX': 116, 'SC_2_C_BIND': 47, 'SC_WORD_BIT': 107, 'SC_2_C_DEV': 48, 'SC_NPROCESSORS_ONLN': 84, 'SC_THREAD_THREADS_MAX': 76, 'SC_2_FORT_DEV': 49, 'SC_PII_SOCKET': 55, 'SC_THREAD_PRIO_INHERIT': 80, 'SC_GETGR_R_SIZE_MAX': 69, 'SC_LINE_MAX': 43, 'SC_THREAD_DESTRUCTOR_ITERATIONS': 73, 'SC_PASS_MAX': 88, 'SC_CHAR_BIT': 101, 'SC_LONG_BIT': 106, 'SC_NL_LANGMAX': 120, 'SC_SHARED_MEMORY_OBJECTS': 22, 'SC_ARG_MAX': 0, 'SC_GETPW_R_SIZE_MAX': 70, 'SC_NL_ARGMAX': 119, 'SC_CHAR_MIN': 103, 'SC_2_SW_DEV': 51, 'SC_PII_OSI_CLTS': 64, 'SC_PII_INTERNET': 56, 'SC_PII_XTI': 54, 'SC_THREAD_PRIORITY_SCHEDULING': 79, 'SC_THREAD_PROCESS_SHARED': 82, 'SC_RE_DUP_MAX': 44, 'SC_NZERO': 109, 'SC_MB_LEN_MAX': 108, 'SC_NPROCESSORS_CONF': 83, 'SC_PII_OSI_M': 65, 'SC_MEMORY_PROTECTION': 19, 'SC_PII': 53, 'SC_ATEXIT_MAX': 87, 'SC_COLL_WEIGHTS_MAX': 40, 'SC_RTSIG_MAX': 31, 'SC_T_IOV_MAX': 66, 'SC_2_CHAR_TERM': 95, 'SC_XBS5_LPBIG_OFFBIG': 128, 'SC_TIMER_MAX': 35, 'SC_THREAD_STACK_MIN': 75, 'SC_MEMLOCK': 17, 'SC_XOPEN_REALTIME': 130, 'SC_USHRT_MAX': 118, 'SC_TIMERS': 11, 'SC_LOGIN_NAME_MAX': 71, 'SC_MEMLOCK_RANGE': 18, 'SC_THREAD_PRIO_PROTECT': 81, 'SC_THREAD_ATTR_STACKSIZE': 78, 'SC_INT_MIN': 105, 'SC_THREAD_KEYS_MAX': 74, 'SC_MAPPED_FILES': 16, 'SC_UIO_MAXIOV': 60, 'SC_PII_INTERNET_STREAM': 61, 'SC_THREAD_SAFE_FUNCTIONS': 68, 'SC_XBS5_LP64_OFF64': 127, 'SC_2_VERSION': 46, 'SC_THREADS': 67, 'SC_SEM_VALUE_MAX': 33, 'SC_XBS5_ILP32_OFFBIG': 126, 'SC_PAGESIZE': 30, 'SC_ULONG_MAX': 117, 'SC_AIO_PRIO_DELTA_MAX': 25, 'SC_TTY_NAME_MAX': 72, 'SC_PRIORITIZED_IO': 13, 'SC_SHRT_MAX': 113, 'SC_BC_STRING_MAX': 39, 'SC_2_LOCALEDEF': 52, 'SC_BC_BASE_MAX': 36, 'SC_ASYNCHRONOUS_IO': 12, 'SC_AVPHYS_PAGES': 86, 'SC_XOPEN_LEGACY': 129, 'SC_XOPEN_XPG2': 98, 'SC_2_FORT_RUN': 50, 'SC_SCHAR_MAX': 111, 'SC_EQUIV_CLASS_MAX': 41, 'SC_CHILD_MAX': 1, 'SC_XOPEN_XPG3': 99, 'SC_UCHAR_MAX': 115, 'SC_OPEN_MAX': 4, 'SC_AIO_MAX': 24, 'SC_POLL': 58, 'SC_FSYNC': 15, 'SC_XBS5_ILP32_OFF32': 125, 'SC_CHAR_MAX': 102, 'SC_IOV_MAX': 60, 'SC_SIGQUEUE_MAX': 34, 'SC_XOPEN_CRYPT': 92, 'SC_XOPEN_SHM': 94, 'SC_NL_NMAX': 122, 'SC_STREAM_MAX': 5, 'SC_BC_SCALE_MAX': 38}
----------------------
+
+*************Need Args
 
 command: 	os.system
 ---------------------info
 Execute the command in a subshell.
 ---------------------output
-<built-in function system>
----------------------
+
+*************Need Args
 
 command: 	os.tcgetpgrp
 ---------------------info
 Return the process group associated with the terminal specified by fd.
 ---------------------output
-<built-in function tcgetpgrp>
----------------------
+
+*************Need Args
 
 command: 	os.tcsetpgrp
 ---------------------info
 Set the process group associated with the terminal specified by fd.
 ---------------------output
-<built-in function tcsetpgrp>
----------------------
+
+*************Need Args
 
 command: 	os.terminal_size
 ---------------------info
 A tuple of (columns, lines) for holding terminal window size
 ---------------------output
-<class 'os.terminal_size'>
----------------------
+
+*************Need Args
 
 command: 	os.times
 ---------------------info
@@ -4033,8 +4024,8 @@ The object returned behaves like a named tuple with these fields:
   (utime, stime, cutime, cstime, elapsed_time)
 All fields are floating point numbers.
 ---------------------output
-<built-in function times>
----------------------
+
+*************Need Args
 
 command: 	os.times_result
 ---------------------info
@@ -4047,8 +4038,8 @@ and elapsed.
 
 See os.times for more information.
 ---------------------output
-<class 'posix.times_result'>
----------------------
+
+*************Need Args
 
 command: 	os.truncate
 ---------------------info
@@ -4057,8 +4048,8 @@ Truncate a file, specified by path, to a specific length.
 On some platforms, path may also be specified as an open file descriptor.
   If this functionality is unavailable, using it raises an exception.
 ---------------------output
-<built-in function truncate>
----------------------
+
+*************Need Args
 
 command: 	os.ttyname
 ---------------------info
@@ -4067,15 +4058,15 @@ Return the name of the terminal device connected to 'fd'.
   fd
     Integer file descriptor handle.
 ---------------------output
-<built-in function ttyname>
----------------------
+
+*************Need Args
 
 command: 	os.umask
 ---------------------info
 Set the current numeric umask and return the previous umask.
 ---------------------output
-<built-in function umask>
----------------------
+
+*************Need Args
 
 command: 	os.uname
 ---------------------info
@@ -4084,8 +4075,8 @@ Return an object identifying the current operating system.
 The object behaves like a named tuple with the following fields:
   (sysname, nodename, release, version, machine)
 ---------------------output
-<built-in function uname>
----------------------
+
+*************Need Args
 
 command: 	os.uname_result
 ---------------------info
@@ -4097,8 +4088,8 @@ or via the attributes sysname, nodename, release, version, and machine.
 
 See os.uname for more information.
 ---------------------output
-<class 'posix.uname_result'>
----------------------
+
+*************Need Args
 
 command: 	os.unlink
 ---------------------info
@@ -4109,22 +4100,22 @@ If dir_fd is not None, it should be a file descriptor open to a directory,
 dir_fd may not be implemented on your platform.
   If it is unavailable, using it will raise a NotImplementedError.
 ---------------------output
-<built-in function unlink>
----------------------
+
+*************Need Args
 
 command: 	os.unsetenv
 ---------------------info
 Delete an environment variable.
 ---------------------output
-<built-in function unsetenv>
----------------------
+
+*************Need Args
 
 command: 	os.urandom
 ---------------------info
 Return a bytes object containing random bytes suitable for cryptographic use.
 ---------------------output
-<built-in function urandom>
----------------------
+
+*************Need Args
 
 command: 	os.utime
 ---------------------info
@@ -4152,8 +4143,8 @@ It is an error to use dir_fd or follow_symlinks when specifying path
 dir_fd and follow_symlinks may not be available on your platform.
   If they are unavailable, using them will raise a NotImplementedError.
 ---------------------output
-<built-in function utime>
----------------------
+
+*************Need Args
 
 command: 	os.wait
 ---------------------info
@@ -4162,8 +4153,8 @@ Wait for completion of a child process.
 Returns a tuple of information about the child process:
     (pid, status)
 ---------------------output
-<built-in function wait>
----------------------
+
+*************Need Args
 
 command: 	os.wait3
 ---------------------info
@@ -4172,8 +4163,8 @@ Wait for completion of a child process.
 Returns a tuple of information about the child process:
   (pid, status, rusage)
 ---------------------output
-<built-in function wait3>
----------------------
+
+*************Need Args
 
 command: 	os.wait4
 ---------------------info
@@ -4182,8 +4173,8 @@ Wait for completion of a specific child process.
 Returns a tuple of information about the child process:
   (pid, status, rusage)
 ---------------------output
-<built-in function wait4>
----------------------
+
+*************Need Args
 
 command: 	os.waitid
 ---------------------info
@@ -4200,8 +4191,8 @@ Returns the result of waiting for a process or processes.
 Returns either waitid_result or None if WNOHANG is specified and there are
 no children in a waitable state.
 ---------------------output
-<built-in function waitid>
----------------------
+
+*************Need Args
 
 command: 	os.waitid_result
 ---------------------info
@@ -4213,8 +4204,8 @@ or via the attributes si_pid, si_uid, and so on.
 
 See os.waitid for more information.
 ---------------------output
-<class 'posix.waitid_result'>
----------------------
+
+*************Need Args
 
 command: 	os.waitpid
 ---------------------info
@@ -4225,8 +4216,8 @@ Returns a tuple of information regarding the child process:
 
 The options argument is ignored on Windows.
 ---------------------output
-<built-in function waitpid>
----------------------
+
+*************Need Args
 
 command: 	os.walk
 ---------------------info
@@ -4288,15 +4279,15 @@ Directory tree generator.
 
     
 ---------------------output
-<function walk at 0x7feed8092d90>
----------------------
+
+*************Need Args
 
 command: 	os.write
 ---------------------info
 Write a bytes object to a file descriptor.
 ---------------------output
-<built-in function write>
----------------------
+
+*************Need Args
 
 command: 	os.writev
 ---------------------info
@@ -4305,6 +4296,6 @@ Iterate over buffers, and write the contents of each to a file descriptor.
 Returns the total number of bytes written.
 buffers must be a sequence of bytes-like objects.
 ---------------------output
-<built-in function writev>
----------------------
+
+*************Need Args
 
